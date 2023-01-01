@@ -438,7 +438,7 @@ var jsonresponse = {
       {
          "date": "01/01/2023",
          "sunrise": "07:26",
-         "sun-set": "17:11",
+         "sun_set": "17:11",
          "sun": "Dhanus",
          "maasa": "Pushya",
          "paksha": "Shukla",
