@@ -5179,7 +5179,7 @@ function setHtmlTableContent(panchangamData){
     document.getElementById("sunLabel").innerHTML = panchangamData.sun;
     document.getElementById("sunriseLabel").innerHTML = panchangamData.sunrise;
     document.getElementById("sun_setLabel").innerHTML = panchangamData.sun_set;
-    document.getElementById("durmuhurthaLabel").innerHTML = panchangamData.durmuhurtha;
+    //document.getElementById("durmuhurthaLabel").innerHTML = panchangamData.durmuhurtha;
     document.getElementById("rahukalaLabel").innerHTML = panchangamData.rahukala;
     document.getElementById("yamagandaLabel").innerHTML = panchangamData.yamaganda;
     document.getElementById("EventLabel").innerHTML = panchangamData.events;
