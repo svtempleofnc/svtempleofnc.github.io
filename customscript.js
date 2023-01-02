@@ -1,7 +1,7 @@
 
 var jsonresponse = {
-         "RECORDS": [
-         {
+   "RECORDS": [
+      {
          "date": "1/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:11",
@@ -14,8 +14,8 @@ var jsonresponse = {
          "yamaganda": "12:19 - 13:32",
          "durmuhurtha": "15:53 - 16:32",
          "events": "New Year"
-         },
-         {
+      },
+      {
          "date": "2/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:12",
@@ -26,10 +26,10 @@ var jsonresponse = {
          "nakshatra": "Krittika till Jan-3 05:56",
          "rahukala": "08:40 - 09:53",
          "yamaganda": "11:06 - 12:19",
-         "durmuhurta": "12:39 - 13:18, 14:36 - 15:15",
+         "durmuhurtha": "12:39 - 13:18, 14:36 - 15:15",
          "events": "Vaikuntha Ekadasi"
-         },
-         {
+      },
+      {
          "date": "3/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:12",
@@ -40,10 +40,10 @@ var jsonresponse = {
          "nakshatra": "Rohini till Allday",
          "rahukala": "14:46 - 15:59",
          "yamaganda": "09:53 - 11:06",
-         "durmuhurta": "09:24 - 10:03,22:54 - 23:51",
+         "durmuhurtha": "09:24 - 10:03,22:54 - 23:51",
          "events": "Pradosham, Rama Raksha Sthotram, Hanuman Chalisa"
-         },
-         {
+      },
+      {
          "date": "4/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:13",
@@ -54,10 +54,10 @@ var jsonresponse = {
          "nakshatra": "Rohini till 08:18",
          "rahukala": "12:20 - 13:33",
          "yamaganda": "08:40 - 09:53",
-         "durmuhurta": "12:00 - 12:40",
+         "durmuhurtha": "12:00 - 12:40",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "5/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:14",
@@ -68,10 +68,10 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 10:56",
          "rahukala": "13:34 - 14:47",
          "yamaganda": "07:27 - 08:40",
-         "durmuhurta": "10:43 - 11:22, 14:37 - 15:17",
+         "durmuhurtha": "10:43 - 11:22, 14:37 - 15:17",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "6/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:15",
@@ -82,10 +82,10 @@ var jsonresponse = {
          "nakshatra": "Aardra till 13:44",
          "rahukala": "11:07 - 12:21",
          "yamaganda": "14:48 - 16:01",
-         "durmuhurta": "09:24 - 10:04, 12:40 - 13:20",
+         "durmuhurtha": "09:24 - 10:04, 12:40 - 13:20",
          "events": "Satyanarayana Vratam, Arudra Darshanam"
-         },
-         {
+      },
+      {
          "date": "7/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:16",
@@ -96,10 +96,10 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 16:38",
          "rahukala": "09:54 - 11:08",
          "yamaganda": "13:35 - 14:49",
-         "durmuhurta": "07:27 - 08:45",
+         "durmuhurtha": "07:27 - 08:45",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "8/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:17",
@@ -110,10 +110,10 @@ var jsonresponse = {
          "nakshatra": "Pushya till 19:35",
          "rahukala": "16:03 - 17:17",
          "yamaganda": "12:22 - 13:35",
-         "durmuhurta": "15:58 - 16:37",
+         "durmuhurtha": "15:58 - 16:37",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "9/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:18",
@@ -124,10 +124,10 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 22:31",
          "rahukala": "08:41 - 09:54",
          "yamaganda": "11:08 - 12:22",
-         "durmuhurta": "12:42 - 13:21, 14:40 - 15:19",
+         "durmuhurtha": "12:42 - 13:21, 14:40 - 15:19",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "10/1/2023",
          "sunrise": "07:27",
          "sun_set": "17:19",
@@ -138,10 +138,10 @@ var jsonresponse = {
          "nakshatra": "Magha till Jan-11 01:20",
          "rahukala": "14:51 - 16:05",
          "yamaganda": "09:55 - 11:09",
-         "durmuhurta": "09:25 - 10:04,22:58 - 23:54",
+         "durmuhurtha": "09:25 - 10:04,22:58 - 23:54",
          "events": "Sankatahara Chaturthi"
-         },
-         {
+      },
+      {
          "date": "11/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:19",
@@ -152,10 +152,10 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Jan-12 03:54",
          "rahukala": "12:23 - 13:37",
          "yamaganda": "08:41 - 09:55",
-         "durmuhurta": "12:03 - 12:43",
+         "durmuhurtha": "12:03 - 12:43",
          "events": "Thyagaraja Aradhan"
-         },
-         {
+      },
+      {
          "date": "12/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:20",
@@ -166,10 +166,10 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till Jan-13 06:05",
          "rahukala": "13:38 - 14:52",
          "yamaganda": "07:26 - 08:41",
-         "durmuhurta": "10:44 - 11:24, 14:42 - 15:22",
+         "durmuhurtha": "10:44 - 11:24, 14:42 - 15:22",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "13/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:21",
@@ -180,10 +180,10 @@ var jsonresponse = {
          "nakshatra": "Hasta till Allday",
          "rahukala": "11:09 - 12:24",
          "yamaganda": "14:53 - 16:07",
-         "durmuhurta": "09:25 - 10:05, 12:44 - 13:23",
+         "durmuhurtha": "09:25 - 10:05, 12:44 - 13:23",
          "events": "DhanurMasa Ends, Bhogi, Lohri, Andal Kalyanam"
-         },
-         {
+      },
+      {
          "date": "14/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:22",
@@ -194,10 +194,10 @@ var jsonresponse = {
          "nakshatra": "Hasta till 07:44",
          "rahukala": "09:55 - 11:09",
          "yamaganda": "13:39 - 14:53",
-         "durmuhurta": "07:26 - 08:45",
+         "durmuhurtha": "07:26 - 08:45",
          "events": "Thai-1, Pongal, Makaravilakku"
-         },
-         {
+      },
+      {
          "date": "15/1/2023",
          "sunrise": "07:26",
          "sun_set": "17:23",
@@ -208,10 +208,10 @@ var jsonresponse = {
          "nakshatra": "Chitra till 08:41",
          "rahukala": "16:09 - 17:23",
          "yamaganda": "12:24 - 13:39",
-         "durmuhurta": "16:04 - 16:43",
+         "durmuhurtha": "16:04 - 16:43",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "16/1/2023",
          "sunrise": "07:25",
          "sun_set": "17:24",
@@ -222,10 +222,10 @@ var jsonresponse = {
          "nakshatra": "Swaati till 08:53",
          "rahukala": "08:40 - 09:55",
          "yamaganda": "11:10 - 12:25",
-         "durmuhurta": "12:45 - 13:25, 14:45 - 15:24",
+         "durmuhurtha": "12:45 - 13:25, 14:45 - 15:24",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "17/1/2023",
          "sunrise": "07:25",
          "sun_set": "17:25",
@@ -236,10 +236,10 @@ var jsonresponse = {
          "nakshatra": "Visakha till 08:16 ;  Anuraadha till Jan-18 06:52",
          "rahukala": "14:55 - 16:10",
          "yamaganda": "09:55 - 11:10",
-         "durmuhurta": "09:25 - 10:05,23:01 - 23:57",
+         "durmuhurtha": "09:25 - 10:05,23:01 - 23:57",
          "events": "Ekadasi, Sani in Kumbha"
-         },
-         {
+      },
+      {
          "date": "18/1/2023",
          "sunrise": "07:25",
          "sun_set": "17:26",
@@ -250,10 +250,10 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till Jan-19 04:48",
          "rahukala": "12:25 - 13:41",
          "yamaganda": "08:40 - 09:55",
-         "durmuhurta": "12:05 - 12:45",
+         "durmuhurtha": "12:05 - 12:45",
          "events": "Vaishana Ekadasi"
-         },
-         {
+      },
+      {
          "date": "19/1/2023",
          "sunrise": "07:24",
          "sun_set": "17:27",
@@ -264,10 +264,10 @@ var jsonresponse = {
          "nakshatra": "Moola till Jan-20 02:10",
          "rahukala": "13:41 - 14:57",
          "yamaganda": "07:24 - 08:40",
-         "durmuhurta": "10:45 - 11:25, 14:46 - 15:27",
+         "durmuhurtha": "10:45 - 11:25, 14:46 - 15:27",
          "events": "Pradosham, Masa Shivaratri"
-         },
-         {
+      },
+      {
          "date": "20/1/2023",
          "sunrise": "07:24",
          "sun_set": "17:28",
@@ -278,10 +278,10 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 23:10",
          "rahukala": "11:10 - 12:26",
          "yamaganda": "14:57 - 16:13",
-         "durmuhurta": "09:25 - 10:05, 12:46 - 13:26",
+         "durmuhurtha": "09:25 - 10:05, 12:46 - 13:26",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "21/1/2023",
          "sunrise": "07:23",
          "sun_set": "17:29",
@@ -292,10 +292,10 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 19:59",
          "rahukala": "09:55 - 11:11",
          "yamaganda": "13:42 - 14:58",
-         "durmuhurta": "07:23 - 08:44",
+         "durmuhurtha": "07:23 - 08:44",
          "events": "Amavasya Tarpanam"
-         },
-         {
+      },
+      {
          "date": "22/1/2023",
          "sunrise": "07:23",
          "sun_set": "17:30",
@@ -306,10 +306,10 @@ var jsonresponse = {
          "nakshatra": "Shravana till 16:51",
          "rahukala": "16:14 - 17:30",
          "yamaganda": "12:27 - 13:43",
-         "durmuhurta": "16:09 - 16:50",
+         "durmuhurtha": "16:09 - 16:50",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "23/1/2023",
          "sunrise": "07:22",
          "sun_set": "17:31",
@@ -320,10 +320,10 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 13:56",
          "rahukala": "08:38 - 09:55",
          "yamaganda": "11:11 - 12:27",
-         "durmuhurta": "12:47 - 13:28, 14:49 - 15:30",
+         "durmuhurtha": "12:47 - 13:28, 14:49 - 15:30",
          "events": ""
-         },
-         {
+      },
+      {
          "date": "24/1/2023",
          "sunrise": "07:22",
          "sun_set": "17:32",
@@ -334,10 +334,10 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 11:28",
          "rahukala": "15:00 - 16:16",
          "yamaganda": "09:54 - 11:11",
-         "durmuhurta": "09:24 - 10:05,23:04 - 23:59",
+         "durmuhurtha": "09:24 - 10:05,23:04 - 23:59",
          "events": "Varada Ganesh Chaturthi"
-         },
-         {
+      },
+      {
          "date": "25/1/2023",
          "sunrise": "07:21",
          "sun_set": "17:33",
@@ -348,10 +348,10 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 09:35",
          "rahukala": "12:27 - 13:44",
          "yamaganda": "08:38 - 09:54",
-         "durmuhurta": "12:07 - 12:48",
+         "durmuhurtha": "12:07 - 12:48",
          "events": "Vasant Panchami"
-         },
-         {
+      },
+      {
          "date": "26/1/2023",
          "sunrise": "07:21",
          "sun_set": "17:35",
@@ -362,10 +362,10 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 08:26",
          "rahukala": "13:44 - 15:01",
          "yamaganda": "07:21 - 08:37",
-         "durmuhurta": "10:45 - 11:26, 14:51 - 15:32",
+         "durmuhurtha": "10:45 - 11:26, 14:51 - 15:32",
          "events": "Shukla Shashti"
-         },
-         {
+      },
+      {
          "date": "27/1/2023",
          "sunrise": "07:20",
          "sun_set": "17:36",
@@ -376,10 +376,10 @@ var jsonresponse = {
          "nakshatra": "Revati till 08:06",
          "rahukala": "11:11 - 12:28",
          "yamaganda": "15:02 - 16:19",
-         "durmuhurta": "09:23 - 10:04, 12:48 - 13:29",
+         "durmuhurtha": "09:23 - 10:04, 12:48 - 13:29",
          "events": "Ratha Saptami"
-         },
-         {
+      },
+      {
          "date": "28/1/2023",
          "sunrise": "07:19",
          "sun_set": "17:37",
@@ -390,6 +390,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 08:36",
          "rahukala": "09:54 - 11:11",
          "yamaganda": "13:45 - 15:02",
+         "durmuhurtha": "07:19 - 08:42",
          "events": "Bishma Asthami"
       },
       {
@@ -403,7 +404,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 09:51",
          "rahukala": "16:20 - 17:38",
          "yamaganda": "12:28 - 13:45",
-         "durmuhurta": "16:15 - 16:56",
+         "durmuhurtha": "16:15 - 16:56",
          "events": ""
       },
       {
@@ -417,7 +418,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 11:45",
          "rahukala": "08:35 - 09:53",
          "yamaganda": "11:11 - 12:28",
-         "durmuhurta": "12:49 - 13:30, 14:53 - 15:35",
+         "durmuhurtha": "12:49 - 13:30, 14:53 - 15:35",
          "events": ""
       },
       {
@@ -431,7 +432,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 14:09",
          "rahukala": "15:04 - 16:22",
          "yamaganda": "09:53 - 11:11",
-         "durmuhurta": "09:22 - 10:03,23:06 - Feb/1 00:01",
+         "durmuhurtha": "09:22 - 10:03,23:06 - Feb/1 00:01",
          "events": "Bishma Ekadasi"
       },
       {
@@ -445,7 +446,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 16:53",
          "rahukala": "12:29 - 13:47",
          "yamaganda": "08:34 - 09:52",
-         "durmuhurta": "12:08 - 12:49",
+         "durmuhurtha": "12:08 - 12:49",
          "events": ""
       },
       {
@@ -459,7 +460,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 19:48",
          "rahukala": "13:47 - 15:05",
          "yamaganda": "07:16 - 08:34",
-         "durmuhurta": "10:44 - 11:26, 14:55 - 15:37",
+         "durmuhurtha": "10:44 - 11:26, 14:55 - 15:37",
          "events": "Pradosham"
       },
       {
@@ -473,7 +474,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 22:46",
          "rahukala": "11:10 - 12:29",
          "yamaganda": "15:06 - 16:24",
-         "durmuhurta": "09:20 - 10:02, 12:50 - 13:32",
+         "durmuhurtha": "09:20 - 10:02, 12:50 - 13:32",
          "events": ""
       },
       {
@@ -487,7 +488,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Feb-5 01:42",
          "rahukala": "09:51 - 11:10",
          "yamaganda": "13:48 - 15:06",
-         "durmuhurta": "07:14 - 08:38",
+         "durmuhurtha": "07:14 - 08:38",
          "events": "Satynarayana Vratam"
       },
       {
@@ -501,7 +502,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till Feb-6 04:33",
          "rahukala": "16:26 - 17:45",
          "yamaganda": "12:29 - 13:48",
-         "durmuhurta": "16:21 - 17:03",
+         "durmuhurtha": "16:21 - 17:03",
          "events": ""
       },
       {
@@ -515,7 +516,7 @@ var jsonresponse = {
          "nakshatra": "Magha till Allday",
          "rahukala": "08:31 - 09:51",
          "yamaganda": "11:10 - 12:29",
-         "durmuhurta": "12:50 - 13:32, 14:57 - 15:39",
+         "durmuhurtha": "12:50 - 13:32, 14:57 - 15:39",
          "events": "TN: Thirumalisai"
       },
       {
@@ -529,7 +530,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 07:15",
          "rahukala": "15:08 - 16:28",
          "yamaganda": "09:50 - 11:10",
-         "durmuhurta": "09:18 - 10:01,23:08 - Feb/8 00:02",
+         "durmuhurtha": "09:18 - 10:01,23:08 - Feb/8 00:02",
          "events": ""
       },
       {
@@ -543,7 +544,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 09:44",
          "rahukala": "12:29 - 13:49",
          "yamaganda": "08:30 - 09:50",
-         "durmuhurta": "12:08 - 12:50",
+         "durmuhurtha": "12:08 - 12:50",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -557,7 +558,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 11:57",
          "rahukala": "13:49 - 15:09",
          "yamaganda": "07:09 - 08:29",
-         "durmuhurta": "10:43 - 11:25, 14:58 - 15:41",
+         "durmuhurtha": "10:43 - 11:25, 14:58 - 15:41",
          "events": ""
       },
       {
@@ -571,7 +572,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 13:47",
          "rahukala": "11:09 - 12:29",
          "yamaganda": "15:10 - 16:30",
-         "durmuhurta": "09:17 - 09:59, 12:51 - 13:33",
+         "durmuhurtha": "09:17 - 09:59, 12:51 - 13:33",
          "events": ""
       },
       {
@@ -585,7 +586,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 15:10",
          "rahukala": "09:48 - 11:09",
          "yamaganda": "13:50 - 15:10",
-         "durmuhurta": "07:07 - 08:33",
+         "durmuhurtha": "07:07 - 08:33",
          "events": ""
       },
       {
@@ -599,7 +600,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 15:57",
          "rahukala": "16:31 - 17:52",
          "yamaganda": "12:29 - 13:50",
-         "durmuhurta": "16:26 - 17:09",
+         "durmuhurtha": "16:26 - 17:09",
          "events": "Sun: Kumbha 23:18"
       },
       {
@@ -613,7 +614,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 16:05",
          "rahukala": "08:26 - 09:47",
          "yamaganda": "11:08 - 12:29",
-         "durmuhurta": "12:51 - 13:34, 15:00 - 15:44",
+         "durmuhurtha": "12:51 - 13:34, 15:00 - 15:44",
          "events": "Masi-1"
       },
       {
@@ -627,7 +628,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 15:31",
          "rahukala": "15:12 - 16:33",
          "yamaganda": "09:47 - 11:08",
-         "durmuhurta": "09:14 - 09:57,23:10 - Feb/15 00:02",
+         "durmuhurtha": "09:14 - 09:57,23:10 - Feb/15 00:02",
          "events": "Thai Poosam"
       },
       {
@@ -641,7 +642,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 14:16",
          "rahukala": "12:29 - 13:51",
          "yamaganda": "08:25 - 09:46",
-         "durmuhurta": "12:07 - 12:51",
+         "durmuhurtha": "12:07 - 12:51",
          "events": ""
       },
       {
@@ -655,7 +656,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 12:22",
          "rahukala": "13:51 - 15:13",
          "yamaganda": "07:02 - 08:24",
-         "durmuhurta": "10:40 - 11:24, 15:02 - 15:45",
+         "durmuhurtha": "10:40 - 11:24, 15:02 - 15:45",
          "events": "Ekadasi"
       },
       {
@@ -669,7 +670,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 09:58",
          "rahukala": "11:07 - 12:29",
          "yamaganda": "15:13 - 16:35",
-         "durmuhurta": "09:12 - 09:56, 12:51 - 13:35",
+         "durmuhurtha": "09:12 - 09:56, 12:51 - 13:35",
          "events": "Pradosham"
       },
       {
@@ -683,7 +684,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 07:12 ;  Shravana till Feb-19 04:14",
          "rahukala": "09:44 - 11:07",
          "yamaganda": "13:51 - 15:14",
-         "durmuhurta": "07:00 - 08:27",
+         "durmuhurtha": "07:00 - 08:27",
          "events": "Maha Shivaratri"
       },
       {
@@ -697,7 +698,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till Feb-20 01:16",
          "rahukala": "16:37 - 17:59",
          "yamaganda": "12:29 - 13:51",
-         "durmuhurta": "16:31 - 17:15",
+         "durmuhurtha": "16:31 - 17:15",
          "events": "Amavasya Tarpanam"
       },
       {
@@ -711,7 +712,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 22:30",
          "rahukala": "08:20 - 09:43",
          "yamaganda": "11:06 - 12:29",
-         "durmuhurta": "12:51 - 13:35, 15:03 - 15:48",
+         "durmuhurtha": "12:51 - 13:35, 15:03 - 15:48",
          "events": ""
       },
       {
@@ -725,7 +726,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 20:08",
          "rahukala": "15:15 - 16:38",
          "yamaganda": "09:42 - 11:05",
-         "durmuhurta": "09:09 - 09:53,23:11 - Feb/22 00:02",
+         "durmuhurtha": "09:09 - 09:53,23:11 - Feb/22 00:02",
          "events": ""
       },
       {
@@ -739,7 +740,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 18:20",
          "rahukala": "12:28 - 13:52",
          "yamaganda": "08:18 - 09:42",
-         "durmuhurta": "12:06 - 12:51",
+         "durmuhurtha": "12:06 - 12:51",
          "events": ""
       },
       {
@@ -753,7 +754,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 17:14",
          "rahukala": "13:52 - 15:16",
          "yamaganda": "06:54 - 08:17",
-         "durmuhurta": "10:37 - 11:21, 15:05 - 15:49",
+         "durmuhurtha": "10:37 - 11:21, 15:05 - 15:49",
          "events": "Shukla Chaturthi"
       },
       {
@@ -767,7 +768,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 16:56",
          "rahukala": "11:04 - 12:28",
          "yamaganda": "15:16 - 16:40",
-         "durmuhurta": "09:07 - 09:51, 12:51 - 13:35",
+         "durmuhurtha": "09:07 - 09:51, 12:51 - 13:35",
          "events": "Shukla Shashti"
       },
       {
@@ -781,7 +782,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 17:28",
          "rahukala": "09:40 - 11:04",
          "yamaganda": "13:52 - 15:16",
-         "durmuhurta": "06:51 - 08:21",
+         "durmuhurtha": "06:51 - 08:21",
          "events": ""
       },
       {
@@ -795,7 +796,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 18:48",
          "rahukala": "16:41 - 18:06",
          "yamaganda": "12:28 - 13:52",
-         "durmuhurta": "16:36 - 17:21",
+         "durmuhurtha": "16:36 - 17:21",
          "events": ""
       },
       {
@@ -809,7 +810,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 20:49",
          "rahukala": "08:13 - 09:38",
          "yamaganda": "11:03 - 12:28",
-         "durmuhurta": "12:50 - 13:36, 15:06 - 15:51",
+         "durmuhurtha": "12:50 - 13:36, 15:06 - 15:51",
          "events": "Holasthaka Begin"
       },
       {
@@ -823,7 +824,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 23:21",
          "rahukala": "15:18 - 16:43",
          "yamaganda": "09:37 - 11:02",
-         "durmuhurta": "09:03 - 09:49,23:11 - Mar/1 00:02",
+         "durmuhurtha": "09:03 - 09:49,23:11 - Mar/1 00:02",
          "events": ""
       },
       {
@@ -837,7 +838,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till Mar-2 02:13",
          "rahukala": "12:27 - 13:53",
          "yamaganda": "08:11 - 09:37",
-         "durmuhurta": "12:05 - 12:50",
+         "durmuhurtha": "12:05 - 12:50",
          "events": ""
       },
       {
@@ -851,7 +852,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till Mar-3 05:13",
          "rahukala": "13:53 - 15:18",
          "yamaganda": "06:45 - 08:10",
-         "durmuhurta": "10:33 - 11:19, 15:07 - 15:53",
+         "durmuhurtha": "10:33 - 11:19, 15:07 - 15:53",
          "events": "Ekadasi, TN: Kulasekhara"
       },
       {
@@ -865,7 +866,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Allday",
          "rahukala": "11:01 - 12:27",
          "yamaganda": "15:19 - 16:45",
-         "durmuhurta": "09:01 - 09:47, 12:50 - 13:36",
+         "durmuhurtha": "09:01 - 09:47, 12:50 - 13:36",
          "events": "Vaishanava Ekadasi"
       },
       {
@@ -879,7 +880,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 08:11",
          "rahukala": "09:34 - 11:01",
          "yamaganda": "13:53 - 15:19",
-         "durmuhurta": "06:42 - 08:14",
+         "durmuhurtha": "06:42 - 08:14",
          "events": "Pradosham"
       },
       {
@@ -893,7 +894,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 11:00",
          "rahukala": "16:46 - 18:12",
          "yamaganda": "12:26 - 13:53",
-         "durmuhurta": "16:40 - 17:26",
+         "durmuhurtha": "16:40 - 17:26",
          "events": ""
       },
       {
@@ -907,7 +908,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 13:35",
          "rahukala": "08:06 - 09:33",
          "yamaganda": "11:00 - 12:26",
-         "durmuhurta": "12:49 - 13:36, 15:08 - 15:54",
+         "durmuhurtha": "12:49 - 13:36, 15:08 - 15:54",
          "events": "Satyanarayana Vratam, Holika Dahan, Masi Magham"
       },
       {
@@ -921,7 +922,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 15:52",
          "rahukala": "15:20 - 16:47",
          "yamaganda": "09:32 - 10:59",
-         "durmuhurta": "08:57 - 09:44,23:11 - Mar/8 00:01",
+         "durmuhurtha": "08:57 - 09:44,23:11 - Mar/8 00:01",
          "events": ""
       },
       {
@@ -935,7 +936,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 17:50",
          "rahukala": "12:26 - 13:53",
          "yamaganda": "08:04 - 09:31",
-         "durmuhurta": "12:02 - 12:49",
+         "durmuhurtha": "12:02 - 12:49",
          "events": "Lakshmi Jayanti"
       },
       {
@@ -949,7 +950,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 19:27",
          "rahukala": "13:53 - 15:21",
          "yamaganda": "06:35 - 08:03",
-         "durmuhurta": "10:29 - 11:15, 15:09 - 15:56",
+         "durmuhurtha": "10:29 - 11:15, 15:09 - 15:56",
          "events": ""
       },
       {
@@ -963,7 +964,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 20:41",
          "rahukala": "10:57 - 12:25",
          "yamaganda": "15:21 - 16:49",
-         "durmuhurta": "08:54 - 09:41, 12:49 - 13:36",
+         "durmuhurtha": "08:54 - 09:41, 12:49 - 13:36",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -977,7 +978,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 21:30",
          "rahukala": "09:29 - 10:57",
          "yamaganda": "13:53 - 15:21",
-         "durmuhurta": "06:32 - 08:06",
+         "durmuhurtha": "06:32 - 08:06",
          "events": ""
       },
       {
@@ -991,7 +992,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 22:51",
          "rahukala": "17:50 - 19:18",
          "yamaganda": "13:25 - 14:53",
-         "durmuhurta": "17:44 - 18:31",
+         "durmuhurtha": "17:44 - 18:31",
          "events": "Daylight Savings Begin"
       },
       {
@@ -1005,7 +1006,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 22:43",
          "rahukala": "08:58 - 10:27",
          "yamaganda": "11:56 - 13:24",
-         "durmuhurta": "13:48 - 14:35, 16:10 - 16:57",
+         "durmuhurtha": "13:48 - 14:35, 16:10 - 16:57",
          "events": ""
       },
       {
@@ -1019,7 +1020,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 22:03",
          "rahukala": "16:22 - 17:51",
          "yamaganda": "10:26 - 11:55",
-         "durmuhurta": "09:51 - 10:38, Mar/15 00:11 - 00:59",
+         "durmuhurtha": "09:51 - 10:38, Mar/15 00:11 - 00:59",
          "events": "Karadyan Nombu, Shitala Vrat (Basoda)"
       },
       {
@@ -1033,7 +1034,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 20:54",
          "rahukala": "13:24 - 14:53",
          "yamaganda": "08:56 - 10:25",
-         "durmuhurta": "13:00 - 13:48",
+         "durmuhurtha": "13:00 - 13:48",
          "events": "Panguni-1"
       },
       {
@@ -1047,7 +1048,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 19:17",
          "rahukala": "14:53 - 16:23",
          "yamaganda": "07:25 - 08:55",
-         "durmuhurta": "11:24 - 12:12, 16:11 - 16:59",
+         "durmuhurtha": "11:24 - 12:12, 16:11 - 16:59",
          "events": ""
       },
       {
@@ -1061,7 +1062,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 17:16",
          "rahukala": "11:53 - 13:23",
          "yamaganda": "16:23 - 17:53",
-         "durmuhurta": "09:48 - 10:36, 13:47 - 14:35",
+         "durmuhurtha": "09:48 - 10:36, 13:47 - 14:35",
          "events": "Ekadasi"
       },
       {
@@ -1075,7 +1076,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 14:59",
          "rahukala": "10:23 - 11:53",
          "yamaganda": "14:53 - 16:23",
-         "durmuhurta": "07:22 - 08:59",
+         "durmuhurtha": "07:22 - 08:59",
          "events": ""
       },
       {
@@ -1089,7 +1090,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 12:34",
          "rahukala": "17:54 - 19:24",
          "yamaganda": "13:23 - 14:53",
-         "durmuhurta": "17:48 - 18:36",
+         "durmuhurtha": "17:48 - 18:36",
          "events": "Pradosham, Masa Shivaratri"
       },
       {
@@ -1103,7 +1104,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 10:09",
          "rahukala": "08:50 - 10:21",
          "yamaganda": "11:52 - 13:22",
-         "durmuhurta": "13:47 - 14:35, 16:12 - 17:00",
+         "durmuhurtha": "13:47 - 14:35, 16:12 - 17:00",
          "events": "Amavasya Tarpanam"
       },
       {
@@ -1117,7 +1118,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 07:55 ;  U.Bhadra till Mar-22 06:02",
          "rahukala": "16:24 - 17:55",
          "yamaganda": "10:20 - 11:51",
-         "durmuhurta": "09:44 - 10:32, Mar/22 00:10 - 00:58",
+         "durmuhurtha": "09:44 - 10:32, Mar/22 00:10 - 00:58",
          "events": ""
       },
       {
@@ -1131,7 +1132,7 @@ var jsonresponse = {
          "nakshatra": "Revati till Mar-23 04:38",
          "rahukala": "13:22 - 14:53",
          "yamaganda": "08:48 - 10:19",
-         "durmuhurta": "12:58 - 13:46",
+         "durmuhurtha": "12:58 - 13:46",
          "events": "Yugadi, Vasant Navaratri Begin"
       },
       {
@@ -1145,7 +1146,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till Mar-24 03:52",
          "rahukala": "14:53 - 16:25",
          "yamaganda": "07:15 - 08:47",
-         "durmuhurta": "11:19 - 12:08, 16:12 - 17:01",
+         "durmuhurtha": "11:19 - 12:08, 16:12 - 17:01",
          "events": ""
       },
       {
@@ -1159,7 +1160,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till Mar-25 03:49",
          "rahukala": "11:49 - 13:21",
          "yamaganda": "16:25 - 17:57",
-         "durmuhurta": "09:41 - 10:30, 13:46 - 14:35",
+         "durmuhurtha": "09:41 - 10:30, 13:46 - 14:35",
          "events": "Shukla Chaturthi, Gowri Tritiya"
       },
       {
@@ -1173,7 +1174,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till Mar-26 04:31",
          "rahukala": "10:17 - 11:49",
          "yamaganda": "14:53 - 16:25",
-         "durmuhurta": "07:12 - 08:51",
+         "durmuhurtha": "07:12 - 08:51",
          "events": ""
       },
       {
@@ -1187,7 +1188,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till Mar-27 05:57",
          "rahukala": "17:58 - 19:30",
          "yamaganda": "13:21 - 14:53",
-         "durmuhurta": "17:52 - 18:41",
+         "durmuhurtha": "17:52 - 18:41",
          "events": "Shukla Shashti"
       },
       {
@@ -1201,7 +1202,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till Allday",
          "rahukala": "08:42 - 10:15",
          "yamaganda": "11:48 - 13:20",
-         "durmuhurta": "13:45 - 14:35, 16:13 - 17:03",
+         "durmuhurtha": "13:45 - 14:35, 16:13 - 17:03",
          "events": ""
       },
       {
@@ -1215,7 +1216,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 08:02",
          "rahukala": "16:26 - 17:59",
          "yamaganda": "10:14 - 11:47",
-         "durmuhurta": "09:37 - 10:26, Mar/29 00:10 - 00:56",
+         "durmuhurtha": "09:37 - 10:26, Mar/29 00:10 - 00:56",
          "events": ""
       },
       {
@@ -1229,7 +1230,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 10:37",
          "rahukala": "13:20 - 14:53",
          "yamaganda": "08:40 - 10:13",
-         "durmuhurta": "12:55 - 13:45",
+         "durmuhurtha": "12:55 - 13:45",
          "events": ""
       },
       {
@@ -1243,7 +1244,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 13:29",
          "rahukala": "14:53 - 16:27",
          "yamaganda": "07:05 - 08:39",
-         "durmuhurta": "11:15 - 12:05, 16:14 - 17:04",
+         "durmuhurtha": "11:15 - 12:05, 16:14 - 17:04",
          "events": "Sri Raam Navami"
       },
       {
@@ -1257,7 +1258,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 16:27",
          "rahukala": "11:45 - 13:19",
          "yamaganda": "16:27 - 18:01",
-         "durmuhurta": "09:34 - 10:24, 13:44 - 14:34",
+         "durmuhurtha": "09:34 - 10:24, 13:44 - 14:34",
          "events": ""
       },
       {
@@ -1271,7 +1272,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 19:18",
          "rahukala": "10:11 - 11:45",
          "yamaganda": "14:53 - 16:27",
-         "durmuhurta": "07:02 - 08:43",
+         "durmuhurtha": "07:02 - 08:43",
          "events": "Ekadasi"
       },
       {
@@ -1285,7 +1286,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 21:54",
          "rahukala": "18:02 - 19:36",
          "yamaganda": "13:19 - 14:53",
-         "durmuhurta": "17:55 - 18:46",
+         "durmuhurtha": "17:55 - 18:46",
          "events": ""
       },
       {
@@ -1299,7 +1300,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Apr-4 00:06",
          "rahukala": "08:34 - 10:09",
          "yamaganda": "11:44 - 13:18",
-         "durmuhurta": "13:44 - 14:34, 16:15 - 17:05",
+         "durmuhurtha": "13:44 - 14:34, 16:15 - 17:05",
          "events": "Pradosham"
       },
       {
@@ -1313,7 +1314,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till Apr-5 01:53",
          "rahukala": "16:28 - 18:03",
          "yamaganda": "10:08 - 11:43",
-         "durmuhurta": "09:30 - 10:21, Apr/5 00:09 - 00:55",
+         "durmuhurtha": "09:30 - 10:21, Apr/5 00:09 - 00:55",
          "events": "Panguni Uttiram"
       },
       {
@@ -1327,7 +1328,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till Apr-6 03:11",
          "rahukala": "13:18 - 14:53",
          "yamaganda": "08:32 - 10:07",
-         "durmuhurta": "12:52 - 13:43",
+         "durmuhurtha": "12:52 - 13:43",
          "events": "Satyanarayana Vratam, Hanuman Jayanti"
       },
       {
@@ -1341,7 +1342,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till Apr-7 04:03",
          "rahukala": "14:53 - 16:28",
          "yamaganda": "06:55 - 08:31",
-         "durmuhurta": "11:10 - 12:01, 16:16 - 17:07",
+         "durmuhurtha": "11:10 - 12:01, 16:16 - 17:07",
          "events": ""
       },
       {
@@ -1355,7 +1356,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till Apr-8 04:28",
          "rahukala": "11:41 - 13:17",
          "yamaganda": "16:29 - 18:04",
-         "durmuhurta": "09:27 - 10:18, 13:43 - 14:34",
+         "durmuhurtha": "09:27 - 10:18, 13:43 - 14:34",
          "events": ""
       },
       {
@@ -1369,7 +1370,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till Apr-9 04:30",
          "rahukala": "10:05 - 11:41",
          "yamaganda": "14:53 - 16:29",
-         "durmuhurta": "06:53 - 08:35",
+         "durmuhurtha": "06:53 - 08:35",
          "events": ""
       },
       {
@@ -1383,7 +1384,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till Apr-10 04:09",
          "rahukala": "18:06 - 19:42",
          "yamaganda": "13:17 - 14:53",
-         "durmuhurta": "17:59 - 18:51",
+         "durmuhurtha": "17:59 - 18:51",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -1397,7 +1398,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till Apr-11 03:28",
          "rahukala": "08:26 - 10:03",
          "yamaganda": "11:40 - 13:16",
-         "durmuhurta": "13:42 - 14:34, 16:17 - 17:08",
+         "durmuhurtha": "13:42 - 14:34, 16:17 - 17:08",
          "events": "Sivalayam Varshikotsavam Begins"
       },
       {
@@ -1411,7 +1412,7 @@ var jsonresponse = {
          "nakshatra": "Moola till Apr-12 02:29",
          "rahukala": "16:30 - 18:07",
          "yamaganda": "10:02 - 11:39",
-         "durmuhurta": "09:24 - 10:15, Apr/12 00:09 - 00:53",
+         "durmuhurtha": "09:24 - 10:15, Apr/12 00:09 - 00:53",
          "events": ""
       },
       {
@@ -1425,7 +1426,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till Apr-13 01:13",
          "rahukala": "13:16 - 14:53",
          "yamaganda": "08:24 - 10:01",
-         "durmuhurta": "12:50 - 13:42",
+         "durmuhurtha": "12:50 - 13:42",
          "events": ""
       },
       {
@@ -1439,7 +1440,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 23:44",
          "rahukala": "14:53 - 16:30",
          "yamaganda": "06:46 - 08:23",
-         "durmuhurta": "11:06 - 11:58, 16:17 - 17:09",
+         "durmuhurtha": "11:06 - 11:58, 16:17 - 17:09",
          "events": "Shivalaya Varshikotsavam Ends"
       },
       {
@@ -1453,7 +1454,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 22:05",
          "rahukala": "11:38 - 13:15",
          "yamaganda": "16:31 - 18:08",
-         "durmuhurta": "09:21 - 10:13, 13:41 - 14:33",
+         "durmuhurtha": "09:21 - 10:13, 13:41 - 14:33",
          "events": "Mesha Sankranthi, Tamil New Year, Chittirai-1"
       },
       {
@@ -1467,7 +1468,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 20:21",
          "rahukala": "09:59 - 11:37",
          "yamaganda": "14:53 - 16:31",
-         "durmuhurta": "06:43 - 08:28",
+         "durmuhurtha": "06:43 - 08:28",
          "events": "Ekadasi, Vishu"
       },
       {
@@ -1481,7 +1482,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 18:37",
          "rahukala": "18:10 - 19:48",
          "yamaganda": "13:15 - 14:53",
-         "durmuhurta": "18:03 - 18:55",
+         "durmuhurtha": "18:03 - 18:55",
          "events": "Vaishanava Ekadasi"
       },
       {
@@ -1495,7 +1496,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 16:58",
          "rahukala": "08:19 - 09:58",
          "yamaganda": "11:36 - 13:15",
-         "durmuhurta": "13:41 - 14:33, 16:18 - 17:11",
+         "durmuhurtha": "13:41 - 14:33, 16:18 - 17:11",
          "events": "Pradosham"
       },
       {
@@ -1509,7 +1510,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 15:31",
          "rahukala": "16:32 - 18:11",
          "yamaganda": "09:57 - 11:36",
-         "durmuhurta": "09:17 - 10:10, Apr/19 00:09 - 00:52",
+         "durmuhurtha": "09:17 - 10:10, Apr/19 00:09 - 00:52",
          "events": "Masa Shivaratri"
       },
       {
@@ -1523,7 +1524,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 14:23",
          "rahukala": "13:14 - 14:53",
          "yamaganda": "08:17 - 09:56",
-         "durmuhurta": "12:48 - 13:41",
+         "durmuhurtha": "12:48 - 13:41",
          "events": "Amavasya Tarpanam"
       },
       {
@@ -1537,7 +1538,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 13:40",
          "rahukala": "14:53 - 16:33",
          "yamaganda": "06:37 - 08:16",
-         "durmuhurta": "11:02 - 11:54, 16:19 - 17:12",
+         "durmuhurtha": "11:02 - 11:54, 16:19 - 17:12",
          "events": ""
       },
       {
@@ -1551,7 +1552,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 13:29",
          "rahukala": "11:34 - 13:14",
          "yamaganda": "16:33 - 18:12",
-         "durmuhurta": "09:15 - 10:08, 13:40 - 14:33",
+         "durmuhurtha": "09:15 - 10:08, 13:40 - 14:33",
          "events": ""
       },
       {
@@ -1565,7 +1566,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 13:54",
          "rahukala": "09:54 - 11:34",
          "yamaganda": "14:53 - 16:33",
-         "durmuhurta": "06:34 - 08:21",
+         "durmuhurtha": "06:34 - 08:21",
          "events": "Parasuram Jayanti, Basava Jayanti, Akshaya Tritiya"
       },
       {
@@ -1579,7 +1580,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 14:57",
          "rahukala": "18:14 - 19:54",
          "yamaganda": "13:13 - 14:53",
-         "durmuhurta": "18:07 - 19:00",
+         "durmuhurtha": "18:07 - 19:00",
          "events": "Shukla Chaturthi"
       },
       {
@@ -1593,7 +1594,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 16:37",
          "rahukala": "08:12 - 09:52",
          "yamaganda": "11:33 - 13:13",
-         "durmuhurta": "13:40 - 14:33, 16:20 - 17:14",
+         "durmuhurtha": "13:40 - 14:33, 16:20 - 17:14",
          "events": "Sankara Jayanti"
       },
       {
@@ -1607,7 +1608,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 18:51",
          "rahukala": "16:34 - 18:15",
          "yamaganda": "09:52 - 11:32",
-         "durmuhurta": "09:12 - 10:05, Apr/26 00:09 - 00:51",
+         "durmuhurtha": "09:12 - 10:05, Apr/26 00:09 - 00:51",
          "events": "Shukla Shasti, Ramanuja Jayanti"
       },
       {
@@ -1621,7 +1622,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 21:29",
          "rahukala": "13:13 - 14:54",
          "yamaganda": "08:10 - 09:51",
-         "durmuhurta": "12:46 - 13:40",
+         "durmuhurtha": "12:46 - 13:40",
          "events": "Sri Ganga Janma"
       },
       {
@@ -1635,7 +1636,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Apr-28 00:23",
          "rahukala": "14:54 - 16:35",
          "yamaganda": "06:28 - 08:09",
-         "durmuhurta": "10:58 - 11:52, 16:21 - 17:15",
+         "durmuhurtha": "10:58 - 11:52, 16:21 - 17:15",
          "events": "Masa Durga Asthami, Bagalamukhi Jayanti"
       },
       {
@@ -1649,7 +1650,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till Apr-29 03:17",
          "rahukala": "11:31 - 13:13",
          "yamaganda": "16:35 - 18:16",
-         "durmuhurta": "09:09 - 10:03, 13:40 - 14:34",
+         "durmuhurtha": "09:09 - 10:03, 13:40 - 14:34",
          "events": "Janaki Jayanti"
       },
       {
@@ -1663,7 +1664,7 @@ var jsonresponse = {
          "nakshatra": "Magha till Apr-30 06:00",
          "rahukala": "09:49 - 11:31",
          "yamaganda": "14:54 - 16:36",
-         "durmuhurta": "06:26 - 08:14",
+         "durmuhurtha": "06:26 - 08:14",
          "events": ""
       },
       {
@@ -1677,7 +1678,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Allday",
          "rahukala": "18:18 - 20:00",
          "yamaganda": "13:12 - 14:54",
-         "durmuhurta": "18:11 - 19:05",
+         "durmuhurtha": "18:11 - 19:05",
          "events": ""
       },
       {
@@ -1691,7 +1692,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 08:21",
          "rahukala": "08:06 - 09:48",
          "yamaganda": "11:30 - 13:12",
-         "durmuhurta": "13:39 - 14:34, 16:23 - 17:17",
+         "durmuhurtha": "13:39 - 14:34, 16:23 - 17:17",
          "events": "Ekadasi"
       },
       {
@@ -1705,7 +1706,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 10:11",
          "rahukala": "16:37 - 18:19",
          "yamaganda": "09:47 - 11:30",
-         "durmuhurta": "09:06 - 10:01, May/3 00:09 - 00:51",
+         "durmuhurtha": "09:06 - 10:01, May/3 00:09 - 00:51",
          "events": "Pradosham"
       },
       {
@@ -1719,7 +1720,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 11:26",
          "rahukala": "13:12 - 14:54",
          "yamaganda": "08:04 - 09:47",
-         "durmuhurta": "12:45 - 13:39",
+         "durmuhurtha": "12:45 - 13:39",
          "events": "Narasimha Jayanti"
       },
       {
@@ -1733,7 +1734,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 12:05",
          "rahukala": "14:55 - 16:37",
          "yamaganda": "06:21 - 08:03",
-         "durmuhurta": "10:55 - 11:50, 16:24 - 17:18",
+         "durmuhurtha": "10:55 - 11:50, 16:24 - 17:18",
          "events": "Satyanarayana Vrataml Guru Rises in East, TN: Madhurakavi"
       },
       {
@@ -1747,7 +1748,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 12:09",
          "rahukala": "11:29 - 13:12",
          "yamaganda": "16:38 - 18:21",
-         "durmuhurta": "09:05 - 09:59, 13:39 - 14:34",
+         "durmuhurtha": "09:05 - 09:59, 13:39 - 14:34",
          "events": "Vaishaka Purnima, Annamacharya Jayanti"
       },
       {
@@ -1761,7 +1762,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 11:43",
          "rahukala": "09:45 - 11:28",
          "yamaganda": "14:55 - 16:38",
-         "durmuhurta": "06:19 - 08:09",
+         "durmuhurtha": "06:19 - 08:09",
          "events": ""
       },
       {
@@ -1775,7 +1776,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 10:51",
          "rahukala": "18:22 - 20:05",
          "yamaganda": "13:12 - 14:55",
-         "durmuhurta": "18:15 - 19:10",
+         "durmuhurtha": "18:15 - 19:10",
          "events": ""
       },
       {
@@ -1789,7 +1790,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 09:40",
          "rahukala": "08:00 - 09:44",
          "yamaganda": "11:28 - 13:12",
-         "durmuhurta": "13:39 - 14:34, 16:25 - 17:20",
+         "durmuhurtha": "13:39 - 14:34, 16:25 - 17:20",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -1803,7 +1804,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 08:15",
          "rahukala": "16:39 - 18:23",
          "yamaganda": "09:44 - 11:28",
-         "durmuhurta": "09:02 - 09:58, May/10 00:10 - 00:51",
+         "durmuhurtha": "09:02 - 09:58, May/10 00:10 - 00:51",
          "events": ""
       },
       {
@@ -1817,7 +1818,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 06:42 ;  U.Ashada till May-11 05:07",
          "rahukala": "13:11 - 14:56",
          "yamaganda": "07:59 - 09:43",
-         "durmuhurta": "12:44 - 13:39",
+         "durmuhurtha": "12:44 - 13:39",
          "events": ""
       },
       {
@@ -1831,7 +1832,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till May-12 03:33",
          "rahukala": "14:56 - 16:40",
          "yamaganda": "06:14 - 07:58",
-         "durmuhurta": "10:52 - 11:48, 16:26 - 17:22",
+         "durmuhurtha": "10:52 - 11:48, 16:26 - 17:22",
          "events": ""
       },
       {
@@ -1845,7 +1846,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till May-13 02:05",
          "rahukala": "11:27 - 13:11",
          "yamaganda": "16:40 - 18:25",
-         "durmuhurta": "09:01 - 09:56, 13:39 - 14:35",
+         "durmuhurtha": "09:01 - 09:56, 13:39 - 14:35",
          "events": ""
       },
       {
@@ -1859,7 +1860,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till May-14 00:46",
          "rahukala": "09:42 - 11:27",
          "yamaganda": "14:56 - 16:41",
-         "durmuhurta": "06:12 - 08:04",
+         "durmuhurtha": "06:12 - 08:04",
          "events": ""
       },
       {
@@ -1873,7 +1874,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 23:38",
          "rahukala": "18:26 - 20:11",
          "yamaganda": "13:11 - 14:56",
-         "durmuhurta": "18:19 - 19:15",
+         "durmuhurtha": "18:19 - 19:15",
          "events": "Sun: Vrishabha May-15 02:19, Hanumat Jayanti"
       },
       {
@@ -1887,7 +1888,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 22:45",
          "rahukala": "07:56 - 09:41",
          "yamaganda": "11:26 - 13:11",
-         "durmuhurta": "13:39 - 14:35, 16:28 - 17:24",
+         "durmuhurtha": "13:39 - 14:35, 16:28 - 17:24",
          "events": "Ekadasi, Vaikasi-1"
       },
       {
@@ -1901,7 +1902,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 22:09",
          "rahukala": "16:42 - 18:27",
          "yamaganda": "09:41 - 11:26",
-         "durmuhurta": "08:59 - 09:55, May/17 00:11 - 00:51",
+         "durmuhurtha": "08:59 - 09:55, May/17 00:11 - 00:51",
          "events": "Pradosham"
       },
       {
@@ -1915,7 +1916,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 21:52",
          "rahukala": "13:11 - 14:57",
          "yamaganda": "07:55 - 09:40",
-         "durmuhurta": "12:43 - 13:40",
+         "durmuhurtha": "12:43 - 13:40",
          "events": "Masa Shivaratri"
       },
       {
@@ -1929,7 +1930,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 21:59",
          "rahukala": "14:57 - 16:43",
          "yamaganda": "06:09 - 07:54",
-         "durmuhurta": "10:51 - 11:47, 16:29 - 17:25",
+         "durmuhurtha": "10:51 - 11:47, 16:29 - 17:25",
          "events": "Amavasya Tarpanam, Shani Jayanti"
       },
       {
@@ -1943,7 +1944,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 22:32",
          "rahukala": "11:26 - 13:12",
          "yamaganda": "16:43 - 18:29",
-         "durmuhurta": "08:57 - 09:54, 13:40 - 14:36",
+         "durmuhurtha": "08:57 - 09:54, 13:40 - 14:36",
          "events": "Ankurarpanam"
       },
       {
@@ -1957,7 +1958,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 23:34",
          "rahukala": "09:39 - 11:25",
          "yamaganda": "14:58 - 16:44",
-         "durmuhurta": "06:07 - 08:00",
+         "durmuhurtha": "06:07 - 08:00",
          "events": "Brahmotsavam Begins"
       },
       {
@@ -1971,7 +1972,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till May-22 01:07",
          "rahukala": "18:30 - 20:17",
          "yamaganda": "13:12 - 14:58",
-         "durmuhurta": "18:23 - 19:20",
+         "durmuhurtha": "18:23 - 19:20",
          "events": ""
       },
       {
@@ -1985,7 +1986,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till May-23 03:08",
          "rahukala": "07:52 - 09:39",
          "yamaganda": "11:25 - 13:12",
-         "durmuhurta": "13:40 - 14:37, 16:30 - 17:27",
+         "durmuhurtha": "13:40 - 14:37, 16:30 - 17:27",
          "events": ""
       },
       {
@@ -1999,7 +2000,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till May-24 05:36",
          "rahukala": "16:45 - 18:32",
          "yamaganda": "09:39 - 11:25",
-         "durmuhurta": "08:56 - 09:53, May/24 00:13 - 00:52",
+         "durmuhurtha": "08:56 - 09:53, May/24 00:13 - 00:52",
          "events": "Shukla Chaturthi"
       },
       {
@@ -2013,7 +2014,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Allday",
          "rahukala": "13:12 - 14:59",
          "yamaganda": "07:52 - 09:38",
-         "durmuhurta": "12:43 - 13:40",
+         "durmuhurtha": "12:43 - 13:40",
          "events": "Brahmotsavam Ends"
       },
       {
@@ -2027,7 +2028,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 08:23",
          "rahukala": "14:59 - 16:46",
          "yamaganda": "06:04 - 07:51",
-         "durmuhurta": "10:49 - 11:46, 16:32 - 17:29",
+         "durmuhurtha": "10:49 - 11:46, 16:32 - 17:29",
          "events": "Shukla Shasthi"
       },
       {
@@ -2041,7 +2042,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 11:20",
          "rahukala": "11:25 - 13:12",
          "yamaganda": "16:46 - 18:33",
-         "durmuhurta": "08:55 - 09:52, 13:41 - 14:38",
+         "durmuhurtha": "08:55 - 09:52, 13:41 - 14:38",
          "events": ""
       },
       {
@@ -2055,7 +2056,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 14:13",
          "rahukala": "09:38 - 11:25",
          "yamaganda": "14:59 - 16:47",
-         "durmuhurta": "06:03 - 07:58",
+         "durmuhurtha": "06:03 - 07:58",
          "events": ""
       },
       {
@@ -2069,7 +2070,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 16:50",
          "rahukala": "18:34 - 20:22",
          "yamaganda": "13:12 - 15:00",
-         "durmuhurta": "18:27 - 19:24",
+         "durmuhurtha": "18:27 - 19:24",
          "events": ""
       },
       {
@@ -2083,7 +2084,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 18:59",
          "rahukala": "07:50 - 09:37",
          "yamaganda": "11:25 - 13:12",
-         "durmuhurta": "13:41 - 14:38, 16:33 - 17:30",
+         "durmuhurtha": "13:41 - 14:38, 16:33 - 17:30",
          "events": "Memorial Day"
       },
       {
@@ -2097,7 +2098,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 20:30",
          "rahukala": "16:48 - 18:35",
          "yamaganda": "09:37 - 11:25",
-         "durmuhurta": "08:54 - 09:52, May/31 00:15 - 00:53",
+         "durmuhurtha": "08:54 - 09:52, May/31 00:15 - 00:53",
          "events": "Ekadasi"
       },
       {
@@ -2111,7 +2112,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 21:18",
          "rahukala": "13:13 - 15:00",
          "yamaganda": "07:49 - 09:37",
-         "durmuhurta": "12:44 - 13:41",
+         "durmuhurtha": "12:44 - 13:41",
          "events": ""
       },
       {
@@ -2125,7 +2126,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 21:23",
          "rahukala": "15:01 - 16:49",
          "yamaganda": "06:01 - 07:49",
-         "durmuhurta": "10:49 - 11:47, 16:34 - 17:32",
+         "durmuhurtha": "10:49 - 11:47, 16:34 - 17:32",
          "events": "Pradosham"
       },
       {
@@ -2139,7 +2140,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 20:46",
          "rahukala": "11:25 - 13:13",
          "yamaganda": "16:49 - 18:37",
-         "durmuhurta": "08:54 - 09:51, 13:42 - 14:39",
+         "durmuhurtha": "08:54 - 09:51, 13:42 - 14:39",
          "events": "Vaikasi Vikasam, TN: Naama"
       },
       {
@@ -2153,7 +2154,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 19:33",
          "rahukala": "09:37 - 11:25",
          "yamaganda": "15:01 - 16:49",
-         "durmuhurta": "06:01 - 07:56",
+         "durmuhurtha": "06:01 - 07:56",
          "events": "Satyanarayana Vratam, Vata Savitri, Jyestha Abishekam"
       },
       {
@@ -2167,7 +2168,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 17:53",
          "rahukala": "18:38 - 20:26",
          "yamaganda": "13:13 - 15:02",
-         "durmuhurta": "18:31 - 19:28",
+         "durmuhurtha": "18:31 - 19:28",
          "events": ""
       },
       {
@@ -2181,7 +2182,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 15:53",
          "rahukala": "07:49 - 09:37",
          "yamaganda": "11:25 - 13:14",
-         "durmuhurta": "13:42 - 14:40, 16:36 - 17:33",
+         "durmuhurtha": "13:42 - 14:40, 16:36 - 17:33",
          "events": ""
       },
       {
@@ -2195,7 +2196,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 13:43",
          "rahukala": "16:51 - 18:39",
          "yamaganda": "09:37 - 11:25",
-         "durmuhurta": "08:54 - 09:51, Jun/7 00:16 - 00:55",
+         "durmuhurtha": "08:54 - 09:51, Jun/7 00:16 - 00:55",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -2209,7 +2210,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 11:32",
          "rahukala": "13:14 - 15:02",
          "yamaganda": "07:48 - 09:37",
-         "durmuhurta": "12:45 - 13:43",
+         "durmuhurtha": "12:45 - 13:43",
          "events": ""
       },
       {
@@ -2223,7 +2224,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 09:29",
          "rahukala": "15:03 - 16:51",
          "yamaganda": "06:00 - 07:48",
-         "durmuhurta": "10:49 - 11:47, 16:37 - 17:35",
+         "durmuhurtha": "10:49 - 11:47, 16:37 - 17:35",
          "events": ""
       },
       {
@@ -2237,7 +2238,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 07:39",
          "rahukala": "11:26 - 13:14",
          "yamaganda": "16:52 - 18:40",
-         "durmuhurta": "08:54 - 09:51, 13:43 - 14:41",
+         "durmuhurtha": "08:54 - 09:51, 13:43 - 14:41",
          "events": ""
       },
       {
@@ -2251,7 +2252,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 06:09 ;  P.Bhadra till Jun-11 05:02",
          "rahukala": "09:37 - 11:26",
          "yamaganda": "15:03 - 16:52",
-         "durmuhurta": "06:00 - 07:56",
+         "durmuhurtha": "06:00 - 07:56",
          "events": ""
       },
       {
@@ -2265,7 +2266,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till Jun-12 04:19",
          "rahukala": "18:41 - 20:30",
          "yamaganda": "13:15 - 15:03",
-         "durmuhurta": "18:34 - 19:32",
+         "durmuhurtha": "18:34 - 19:32",
          "events": ""
       },
       {
@@ -2279,7 +2280,7 @@ var jsonresponse = {
          "nakshatra": "Revati till Jun-13 04:02",
          "rahukala": "07:48 - 09:37",
          "yamaganda": "11:26 - 13:15",
-         "durmuhurta": "13:44 - 14:42, 16:38 - 17:36",
+         "durmuhurtha": "13:44 - 14:42, 16:38 - 17:36",
          "events": ""
       },
       {
@@ -2293,7 +2294,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till Jun-14 04:10",
          "rahukala": "16:53 - 18:42",
          "yamaganda": "09:37 - 11:26",
-         "durmuhurta": "08:54 - 09:52, Jun/14 00:18 - 00:56",
+         "durmuhurtha": "08:54 - 09:52, Jun/14 00:18 - 00:56",
          "events": "Ekadasi"
       },
       {
@@ -2307,7 +2308,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till Jun-15 04:42",
          "rahukala": "13:15 - 15:04",
          "yamaganda": "07:49 - 09:37",
-         "durmuhurta": "12:46 - 13:44",
+         "durmuhurtha": "12:46 - 13:44",
          "events": ""
       },
       {
@@ -2321,7 +2322,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till Jun-16 05:37",
          "rahukala": "15:05 - 16:53",
          "yamaganda": "06:00 - 07:49",
-         "durmuhurta": "10:50 - 11:48, 16:39 - 17:37",
+         "durmuhurtha": "10:50 - 11:48, 16:39 - 17:37",
          "events": "Sun: Mithuna 08:50, Aani-1, Pradosham, Masa Shivaratri"
       },
       {
@@ -2335,7 +2336,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till Allday",
          "rahukala": "11:27 - 13:16",
          "yamaganda": "16:54 - 18:43",
-         "durmuhurta": "08:54 - 09:52, 13:45 - 14:43",
+         "durmuhurtha": "08:54 - 09:52, 13:45 - 14:43",
          "events": ""
       },
       {
@@ -2349,7 +2350,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 06:55",
          "rahukala": "09:38 - 11:27",
          "yamaganda": "15:05 - 16:54",
-         "durmuhurta": "06:00 - 07:56",
+         "durmuhurtha": "06:00 - 07:56",
          "events": "Amavasya Tarpanam"
       },
       {
@@ -2363,7 +2364,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 08:36",
          "rahukala": "18:43 - 20:32",
          "yamaganda": "13:16 - 15:05",
-         "durmuhurta": "18:36 - 19:34",
+         "durmuhurtha": "18:36 - 19:34",
          "events": ""
       },
       {
@@ -2377,7 +2378,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 10:40",
          "rahukala": "07:49 - 09:38",
          "yamaganda": "11:27 - 13:16",
-         "durmuhurta": "13:45 - 14:44, 16:40 - 17:38",
+         "durmuhurtha": "13:45 - 14:44, 16:40 - 17:38",
          "events": "Rathayatra"
       },
       {
@@ -2391,7 +2392,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 13:06",
          "rahukala": "16:55 - 18:44",
          "yamaganda": "09:38 - 11:28",
-         "durmuhurta": "08:55 - 09:53, Jun/21 00:20 - 00:58",
+         "durmuhurtha": "08:55 - 09:53, Jun/21 00:20 - 00:58",
          "events": ""
       },
       {
@@ -2405,7 +2406,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 15:51",
          "rahukala": "13:17 - 15:06",
          "yamaganda": "07:50 - 09:39",
-         "durmuhurta": "12:48 - 13:46",
+         "durmuhurtha": "12:48 - 13:46",
          "events": "Shukla Chaturthi, Summer Solstice - Dakshinayana"
       },
       {
@@ -2419,7 +2420,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 18:48",
          "rahukala": "15:06 - 16:55",
          "yamaganda": "06:01 - 07:50",
-         "durmuhurta": "10:52 - 11:50, 16:41 - 17:39",
+         "durmuhurtha": "10:52 - 11:50, 16:41 - 17:39",
          "events": ""
       },
       {
@@ -2433,7 +2434,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 21:48",
          "rahukala": "11:28 - 13:17",
          "yamaganda": "16:55 - 18:44",
-         "durmuhurta": "08:56 - 09:54, 13:46 - 14:45",
+         "durmuhurtha": "08:56 - 09:54, 13:46 - 14:45",
          "events": "Shukla Shashti"
       },
       {
@@ -2447,7 +2448,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Jun-25 00:41",
          "rahukala": "09:39 - 11:28",
          "yamaganda": "15:07 - 16:56",
-         "durmuhurta": "06:01 - 07:58",
+         "durmuhurtha": "06:01 - 07:58",
          "events": ""
       },
       {
@@ -2461,7 +2462,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till Jun-26 03:13",
          "rahukala": "18:45 - 20:34",
          "yamaganda": "13:18 - 15:07",
-         "durmuhurta": "18:38 - 19:36",
+         "durmuhurtha": "18:38 - 19:36",
          "events": ""
       },
       {
@@ -2475,7 +2476,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till Jun-27 05:13",
          "rahukala": "07:51 - 09:40",
          "yamaganda": "11:29 - 13:18",
-         "durmuhurta": "13:47 - 14:45, 16:41 - 17:40",
+         "durmuhurtha": "13:47 - 14:45, 16:41 - 17:40",
          "events": ""
       },
       {
@@ -2489,7 +2490,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till Allday",
          "rahukala": "16:56 - 18:45",
          "yamaganda": "09:40 - 11:29",
-         "durmuhurta": "08:57 - 09:55, Jun/28 00:21 - 00:59",
+         "durmuhurtha": "08:57 - 09:55, Jun/28 00:21 - 00:59",
          "events": ""
       },
       {
@@ -2503,7 +2504,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 06:30",
          "rahukala": "13:18 - 15:07",
          "yamaganda": "07:52 - 09:40",
-         "durmuhurta": "12:49 - 13:47",
+         "durmuhurtha": "12:49 - 13:47",
          "events": "Sudarshan Jayanti"
       },
       {
@@ -2517,7 +2518,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 07:00",
          "rahukala": "15:07 - 16:56",
          "yamaganda": "06:03 - 07:52",
-         "durmuhurta": "10:53 - 11:51, 16:42 - 17:40",
+         "durmuhurtha": "10:53 - 11:51, 16:42 - 17:40",
          "events": "Ekadasi, TN: Periya"
       },
       {
@@ -2531,7 +2532,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 06:40 ;  Anuraadha till Jul-1 05:34",
          "rahukala": "11:30 - 13:19",
          "yamaganda": "16:56 - 18:45",
-         "durmuhurta": "08:58 - 09:56, 13:48 - 14:46",
+         "durmuhurtha": "08:58 - 09:56, 13:48 - 14:46",
          "events": "Pradosham"
       },
       {
@@ -2545,7 +2546,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till Jul-2 03:48",
          "rahukala": "09:41 - 11:30",
          "yamaganda": "15:08 - 16:56",
-         "durmuhurta": "06:04 - 08:00",
+         "durmuhurtha": "06:04 - 08:00",
          "events": ""
       },
       {
@@ -2559,7 +2560,7 @@ var jsonresponse = {
          "nakshatra": "Moola till Jul-3 01:31",
          "rahukala": "18:45 - 20:34",
          "yamaganda": "13:19 - 15:08",
-         "durmuhurta": "18:38 - 19:36",
+         "durmuhurtha": "18:38 - 19:36",
          "events": "Satyanarayana Vratam, Guru Poornima"
       },
       {
@@ -2573,7 +2574,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 22:55",
          "rahukala": "07:53 - 09:42",
          "yamaganda": "11:31 - 13:19",
-         "durmuhurta": "13:48 - 14:46, 16:42 - 17:40",
+         "durmuhurtha": "13:48 - 14:46, 16:42 - 17:40",
          "events": ""
       },
       {
@@ -2587,7 +2588,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 20:09",
          "rahukala": "16:57 - 18:45",
          "yamaganda": "09:42 - 11:31",
-         "durmuhurta": "08:59 - 09:57, Jul/5 00:23 - 01:01",
+         "durmuhurtha": "08:59 - 09:57, Jul/5 00:23 - 01:01",
          "events": "Independence Day"
       },
       {
@@ -2601,7 +2602,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 17:26",
          "rahukala": "13:20 - 15:08",
          "yamaganda": "07:54 - 09:43",
-         "durmuhurta": "12:51 - 13:49",
+         "durmuhurtha": "12:51 - 13:49",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -2615,7 +2616,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 14:55",
          "rahukala": "15:08 - 16:57",
          "yamaganda": "06:06 - 07:55",
-         "durmuhurta": "10:55 - 11:53, 16:42 - 17:40",
+         "durmuhurtha": "10:55 - 11:53, 16:42 - 17:40",
          "events": ""
       },
       {
@@ -2629,7 +2630,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 12:46",
          "rahukala": "11:32 - 13:20",
          "yamaganda": "16:57 - 18:45",
-         "durmuhurta": "09:00 - 09:58, 13:49 - 14:47",
+         "durmuhurtha": "09:00 - 09:58, 13:49 - 14:47",
          "events": ""
       },
       {
@@ -2643,7 +2644,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 11:06",
          "rahukala": "09:44 - 11:32",
          "yamaganda": "15:08 - 16:56",
-         "durmuhurta": "06:07 - 08:03",
+         "durmuhurtha": "06:07 - 08:03",
          "events": ""
       },
       {
@@ -2657,7 +2658,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 09:59",
          "rahukala": "18:45 - 20:33",
          "yamaganda": "13:20 - 15:08",
-         "durmuhurta": "18:37 - 19:35",
+         "durmuhurtha": "18:37 - 19:35",
          "events": ""
       },
       {
@@ -2671,7 +2672,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 09:29",
          "rahukala": "07:57 - 09:44",
          "yamaganda": "11:32 - 13:20",
-         "durmuhurta": "13:49 - 14:47, 16:42 - 17:40",
+         "durmuhurtha": "13:49 - 14:47, 16:42 - 17:40",
          "events": ""
       },
       {
@@ -2685,7 +2686,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 09:34",
          "rahukala": "16:56 - 18:44",
          "yamaganda": "09:45 - 11:33",
-         "durmuhurta": "09:02 - 09:59, Jul/12 00:23 - 01:02",
+         "durmuhurtha": "09:02 - 09:59, Jul/12 00:23 - 01:02",
          "events": ""
       },
       {
@@ -2699,7 +2700,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 10:13",
          "rahukala": "13:21 - 15:08",
          "yamaganda": "07:58 - 09:45",
-         "durmuhurta": "12:52 - 13:49",
+         "durmuhurtha": "12:52 - 13:49",
          "events": ""
       },
       {
@@ -2713,7 +2714,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 11:22",
          "rahukala": "15:08 - 16:56",
          "yamaganda": "06:10 - 07:58",
-         "durmuhurta": "10:57 - 11:55, 16:42 - 17:39",
+         "durmuhurtha": "10:57 - 11:55, 16:42 - 17:39",
          "events": "Ekadasi"
       },
       {
@@ -2727,7 +2728,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 12:56",
          "rahukala": "11:33 - 13:21",
          "yamaganda": "16:56 - 18:43",
-         "durmuhurta": "09:03 - 10:00, 13:50 - 14:47",
+         "durmuhurtha": "09:03 - 10:00, 13:50 - 14:47",
          "events": "Pradosham"
       },
       {
@@ -2741,7 +2742,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 14:53",
          "rahukala": "09:46 - 11:34",
          "yamaganda": "15:08 - 16:56",
-         "durmuhurta": "06:12 - 08:06",
+         "durmuhurtha": "06:12 - 08:06",
          "events": "Masa Shivaratri"
       },
       {
@@ -2755,7 +2756,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 17:09",
          "rahukala": "18:43 - 20:30",
          "yamaganda": "13:21 - 15:08",
-         "durmuhurta": "18:36 - 19:33",
+         "durmuhurtha": "18:36 - 19:33",
          "events": "Amavasya Tarpanam, Aadi-1"
       },
       {
@@ -2769,7 +2770,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 19:41",
          "rahukala": "08:00 - 09:47",
          "yamaganda": "11:34 - 13:21",
-         "durmuhurta": "13:50 - 14:47, 16:41 - 17:38",
+         "durmuhurtha": "13:50 - 14:47, 16:41 - 17:38",
          "events": ""
       },
       {
@@ -2783,7 +2784,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 22:28",
          "rahukala": "16:55 - 18:42",
          "yamaganda": "09:48 - 11:34",
-         "durmuhurta": "09:05 - 10:02, Jul/19 00:23 - 01:02",
+         "durmuhurtha": "09:05 - 10:02, Jul/19 00:23 - 01:02",
          "events": "Adhika Masa Begin"
       },
       {
@@ -2797,7 +2798,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till Jul-20 01:25",
          "rahukala": "13:21 - 15:08",
          "yamaganda": "08:01 - 09:48",
-         "durmuhurta": "12:53 - 13:50",
+         "durmuhurtha": "12:53 - 13:50",
          "events": ""
       },
       {
@@ -2811,7 +2812,7 @@ var jsonresponse = {
          "nakshatra": "Magha till Jul-21 04:28",
          "rahukala": "15:08 - 16:55",
          "yamaganda": "06:15 - 08:02",
-         "durmuhurta": "10:59 - 11:56, 16:40 - 17:37",
+         "durmuhurtha": "10:59 - 11:56, 16:40 - 17:37",
          "events": ""
       },
       {
@@ -2825,7 +2826,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Allday",
          "rahukala": "11:35 - 13:21",
          "yamaganda": "16:54 - 18:41",
-         "durmuhurta": "09:06 - 10:03, 13:50 - 14:47",
+         "durmuhurtha": "09:06 - 10:03, 13:50 - 14:47",
          "events": "Shukla Chaturthi, Aasi Pooram, TN: Andal"
       },
       {
@@ -2839,7 +2840,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 07:28",
          "rahukala": "09:49 - 11:35",
          "yamaganda": "15:08 - 16:54",
-         "durmuhurta": "06:17 - 08:10",
+         "durmuhurtha": "06:17 - 08:10",
          "events": ""
       },
       {
@@ -2853,7 +2854,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 10:17",
          "rahukala": "18:40 - 20:26",
          "yamaganda": "13:22 - 15:08",
-         "durmuhurta": "18:33 - 19:29",
+         "durmuhurtha": "18:33 - 19:29",
          "events": "Shukla Shashti"
       },
       {
@@ -2867,7 +2868,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 12:42",
          "rahukala": "08:04 - 09:50",
          "yamaganda": "11:36 - 13:22",
-         "durmuhurta": "13:50 - 14:46, 16:39 - 17:36",
+         "durmuhurtha": "13:50 - 14:46, 16:39 - 17:36",
          "events": ""
       },
       {
@@ -2881,7 +2882,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 14:33",
          "rahukala": "16:53 - 18:39",
          "yamaganda": "09:50 - 11:36",
-         "durmuhurta": "09:08 - 10:04, Jul/26 00:22 - 01:02",
+         "durmuhurtha": "09:08 - 10:04, Jul/26 00:22 - 01:02",
          "events": ""
       },
       {
@@ -2895,7 +2896,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 15:40",
          "rahukala": "13:22 - 15:07",
          "yamaganda": "08:05 - 09:51",
-         "durmuhurta": "12:53 - 13:50",
+         "durmuhurtha": "12:53 - 13:50",
          "events": ""
       },
       {
@@ -2909,7 +2910,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 15:58",
          "rahukala": "15:07 - 16:52",
          "yamaganda": "06:20 - 08:06",
-         "durmuhurta": "11:01 - 11:57, 16:38 - 17:34",
+         "durmuhurtha": "11:01 - 11:57, 16:38 - 17:34",
          "events": ""
       },
       {
@@ -2923,7 +2924,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 15:25",
          "rahukala": "11:36 - 13:22",
          "yamaganda": "16:52 - 18:37",
-         "durmuhurta": "09:09 - 10:05, 13:50 - 14:46",
+         "durmuhurtha": "09:09 - 10:05, 13:50 - 14:46",
          "events": "Ekadashi"
       },
       {
@@ -2937,7 +2938,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 14:04",
          "rahukala": "09:52 - 11:37",
          "yamaganda": "15:06 - 16:51",
-         "durmuhurta": "06:22 - 08:14",
+         "durmuhurtha": "06:22 - 08:14",
          "events": "Vaishnava Ekadasi"
       },
       {
@@ -2951,7 +2952,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 12:02",
          "rahukala": "18:36 - 20:20",
          "yamaganda": "13:21 - 15:06",
-         "durmuhurta": "18:29 - 19:25",
+         "durmuhurtha": "18:29 - 19:25",
          "events": "Pradosham"
       },
       {
@@ -2965,7 +2966,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 09:28",
          "rahukala": "08:08 - 09:52",
          "yamaganda": "11:37 - 13:21",
-         "durmuhurta": "13:49 - 14:45, 16:37 - 17:32",
+         "durmuhurtha": "13:49 - 14:45, 16:37 - 17:32",
          "events": "Satyanarayana Vratam"
       },
       {
@@ -2979,7 +2980,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 06:33 ;  Shravana till Aug-2 03:28",
          "rahukala": "16:50 - 18:34",
          "yamaganda": "09:53 - 11:37",
-         "durmuhurta": "09:11 - 10:07, Aug/2 00:21 - 01:02",
+         "durmuhurtha": "09:11 - 10:07, Aug/2 00:21 - 01:02",
          "events": ""
       },
       {
@@ -2993,7 +2994,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till Aug-3 00:26",
          "rahukala": "13:21 - 15:05",
          "yamaganda": "08:09 - 09:53",
-         "durmuhurta": "12:54 - 13:49",
+         "durmuhurtha": "12:54 - 13:49",
          "events": ""
       },
       {
@@ -3007,7 +3008,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 21:38",
          "rahukala": "15:05 - 16:49",
          "yamaganda": "06:26 - 08:10",
-         "durmuhurta": "11:03 - 11:58, 16:35 - 17:31",
+         "durmuhurtha": "11:03 - 11:58, 16:35 - 17:31",
          "events": ""
       },
       {
@@ -3021,7 +3022,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 19:14",
          "rahukala": "11:37 - 13:21",
          "yamaganda": "16:48 - 18:32",
-         "durmuhurta": "09:12 - 10:08, 13:49 - 14:44",
+         "durmuhurtha": "09:12 - 10:08, 13:49 - 14:44",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -3035,7 +3036,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 17:24",
          "rahukala": "09:54 - 11:38",
          "yamaganda": "15:04 - 16:48",
-         "durmuhurta": "06:27 - 08:18",
+         "durmuhurtha": "06:27 - 08:18",
          "events": ""
       },
       {
@@ -3049,7 +3050,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 16:13",
          "rahukala": "18:31 - 20:14",
          "yamaganda": "13:21 - 15:04",
-         "durmuhurta": "18:24 - 19:19",
+         "durmuhurtha": "18:24 - 19:19",
          "events": ""
       },
       {
@@ -3063,7 +3064,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 15:46",
          "rahukala": "08:12 - 09:55",
          "yamaganda": "11:38 - 13:21",
-         "durmuhurta": "13:48 - 14:43, 16:33 - 17:28",
+         "durmuhurtha": "13:48 - 14:43, 16:33 - 17:28",
          "events": ""
       },
       {
@@ -3077,7 +3078,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 16:02",
          "rahukala": "16:46 - 18:29",
          "yamaganda": "09:55 - 11:38",
-         "durmuhurta": "09:14 - 10:09, Aug/9 00:19 - 01:00",
+         "durmuhurtha": "09:14 - 10:09, Aug/9 00:19 - 01:00",
          "events": "Aadi Krittikai"
       },
       {
@@ -3091,7 +3092,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 16:59",
          "rahukala": "13:21 - 15:03",
          "yamaganda": "08:13 - 09:55",
-         "durmuhurta": "12:53 - 13:48",
+         "durmuhurtha": "12:53 - 13:48",
          "events": ""
       },
       {
@@ -3105,7 +3106,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 18:31",
          "rahukala": "15:03 - 16:45",
          "yamaganda": "06:31 - 08:13",
-         "durmuhurta": "11:04 - 11:59, 16:31 - 17:26",
+         "durmuhurtha": "11:04 - 11:59, 16:31 - 17:26",
          "events": ""
       },
       {
@@ -3119,7 +3120,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 20:32",
          "rahukala": "11:38 - 13:20",
          "yamaganda": "16:44 - 18:26",
-         "durmuhurta": "09:15 - 10:10, 13:47 - 14:42",
+         "durmuhurtha": "09:15 - 10:10, 13:47 - 14:42",
          "events": "Ekadashi"
       },
       {
@@ -3133,7 +3134,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 22:56",
          "rahukala": "09:56 - 11:38",
          "yamaganda": "15:02 - 16:44",
-         "durmuhurta": "06:33 - 08:21",
+         "durmuhurtha": "06:33 - 08:21",
          "events": ""
       },
       {
@@ -3147,7 +3148,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till Aug-14 01:37",
          "rahukala": "18:25 - 20:06",
          "yamaganda": "13:20 - 15:01",
-         "durmuhurta": "18:18 - 19:12",
+         "durmuhurtha": "18:18 - 19:12",
          "events": "Pradosham"
       },
       {
@@ -3161,7 +3162,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Aug-15 04:28",
          "rahukala": "08:16 - 09:57",
          "yamaganda": "11:38 - 13:20",
-         "durmuhurta": "13:47 - 14:41, 16:29 - 17:23",
+         "durmuhurtha": "13:47 - 14:41, 16:29 - 17:23",
          "events": "Masa Shivaratri"
       },
       {
@@ -3175,7 +3176,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till Allday",
          "rahukala": "16:42 - 18:23",
          "yamaganda": "09:57 - 11:38",
-         "durmuhurta": "09:17 - 10:11, Aug/16 00:17 - 00:59",
+         "durmuhurtha": "09:17 - 10:11, Aug/16 00:17 - 00:59",
          "events": "Amavasya Tarpanam, Adhika Masa Ends"
       },
       {
@@ -3189,7 +3190,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 07:27",
          "rahukala": "13:19 - 15:00",
          "yamaganda": "08:17 - 09:58",
-         "durmuhurta": "12:52 - 13:46",
+         "durmuhurtha": "12:52 - 13:46",
          "events": "Ankurarpanam"
       },
       {
@@ -3203,7 +3204,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 10:28",
          "rahukala": "15:00 - 16:40",
          "yamaganda": "06:37 - 08:17",
-         "durmuhurta": "11:05 - 11:59, 16:27 - 17:21",
+         "durmuhurtha": "11:05 - 11:59, 16:27 - 17:21",
          "events": "Aavani-1, Pavitrotsavam Begins"
       },
       {
@@ -3217,7 +3218,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 13:27",
          "rahukala": "11:38 - 13:19",
          "yamaganda": "16:40 - 18:20",
-         "durmuhurta": "09:18 - 10:11, 13:46 - 14:39",
+         "durmuhurtha": "09:18 - 10:11, 13:46 - 14:39",
          "events": ""
       },
       {
@@ -3231,7 +3232,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 16:17",
          "rahukala": "09:58 - 11:39",
          "yamaganda": "14:59 - 16:39",
-         "durmuhurta": "06:38 - 08:25",
+         "durmuhurtha": "06:38 - 08:25",
          "events": "Pavitrotsavam Ends"
       },
       {
@@ -3245,7 +3246,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 18:51",
          "rahukala": "18:18 - 19:58",
          "yamaganda": "13:18 - 14:58",
-         "durmuhurta": "18:11 - 19:05",
+         "durmuhurtha": "18:11 - 19:05",
          "events": "Shukla Chaturthi"
       },
       {
@@ -3259,7 +3260,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 21:01",
          "rahukala": "08:19 - 09:59",
          "yamaganda": "11:39 - 13:18",
-         "durmuhurta": "13:45 - 14:38, 16:24 - 17:17",
+         "durmuhurtha": "13:45 - 14:38, 16:24 - 17:17",
          "events": "Shukla Shasthi, Naag Panchami"
       },
       {
@@ -3273,7 +3274,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 22:38",
          "rahukala": "16:37 - 18:16",
          "yamaganda": "09:59 - 11:39",
-         "durmuhurta": "09:19 - 10:12, Aug/23 00:14 - 00:57",
+         "durmuhurtha": "09:19 - 10:12, Aug/23 00:14 - 00:57",
          "events": ""
       },
       {
@@ -3287,7 +3288,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 23:34",
          "rahukala": "13:18 - 14:57",
          "yamaganda": "08:20 - 09:59",
-         "durmuhurta": "12:51 - 13:44",
+         "durmuhurtha": "12:51 - 13:44",
          "events": ""
       },
       {
@@ -3301,7 +3302,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 23:44",
          "rahukala": "14:56 - 16:35",
          "yamaganda": "06:42 - 08:21",
-         "durmuhurta": "11:06 - 11:58, 16:22 - 17:15",
+         "durmuhurtha": "11:06 - 11:58, 16:22 - 17:15",
          "events": ""
       },
       {
@@ -3315,7 +3316,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 23:07",
          "rahukala": "11:39 - 13:17",
          "yamaganda": "16:34 - 18:13",
-         "durmuhurta": "09:21 - 10:13, 13:43 - 14:36",
+         "durmuhurtha": "09:21 - 10:13, 13:43 - 14:36",
          "events": "Vara Lakshmi Vratam"
       },
       {
@@ -3329,7 +3330,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 21:46",
          "rahukala": "10:00 - 11:39",
          "yamaganda": "14:55 - 16:33",
-         "durmuhurta": "06:44 - 08:28",
+         "durmuhurtha": "06:44 - 08:28",
          "events": ""
       },
       {
@@ -3343,7 +3344,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 19:45",
          "rahukala": "18:11 - 19:49",
          "yamaganda": "13:17 - 14:55",
-         "durmuhurta": "18:04 - 18:56",
+         "durmuhurtha": "18:04 - 18:56",
          "events": "Ekadasi"
       },
       {
@@ -3357,7 +3358,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 17:13",
          "rahukala": "08:23 - 10:01",
          "yamaganda": "11:38 - 13:16",
-         "durmuhurta": "13:42 - 14:34, 16:19 - 17:11",
+         "durmuhurtha": "13:42 - 14:34, 16:19 - 17:11",
          "events": "Pradosham"
       },
       {
@@ -3371,7 +3372,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 14:20",
          "rahukala": "16:31 - 18:09",
          "yamaganda": "10:01 - 11:38",
-         "durmuhurta": "09:22 - 10:14, Aug/30 00:10 - 00:54",
+         "durmuhurtha": "09:22 - 10:14, Aug/30 00:10 - 00:54",
          "events": "Raksha Bandhan, Onam"
       },
       {
@@ -3385,7 +3386,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 11:16",
          "rahukala": "13:16 - 14:53",
          "yamaganda": "08:24 - 10:01",
-         "durmuhurta": "12:50 - 13:42",
+         "durmuhurtha": "12:50 - 13:42",
          "events": "Satyanarayana Vratam, Raksha Bandhan, Hayagriva Jayanti, Yajur Upakarma, Vaikhanasa Jayanti"
       },
       {
@@ -3399,7 +3400,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 08:15 ;  P.Bhadra till Sep-1 05:26",
          "rahukala": "14:52 - 16:29",
          "yamaganda": "06:47 - 08:24",
-         "durmuhurta": "11:06 - 11:58, 16:16 - 17:08",
+         "durmuhurtha": "11:06 - 11:58, 16:16 - 17:08",
          "events": "Gayatri Japam"
       },
       {
@@ -3413,7 +3414,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till Sep-2 03:00",
          "rahukala": "11:38 - 13:15",
          "yamaganda": "16:28 - 18:05",
-         "durmuhurta": "09:23 - 10:14, 13:41 - 14:32",
+         "durmuhurtha": "09:23 - 10:14, 13:41 - 14:32",
          "events": ""
       },
       {
@@ -3427,7 +3428,7 @@ var jsonresponse = {
          "nakshatra": "Revati till Sep-3 01:08",
          "rahukala": "10:02 - 11:38",
          "yamaganda": "14:51 - 16:28",
-         "durmuhurta": "06:49 - 08:32",
+         "durmuhurtha": "06:49 - 08:32",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -3441,7 +3442,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 23:56",
          "rahukala": "18:03 - 19:39",
          "yamaganda": "13:14 - 14:51",
-         "durmuhurta": "17:56 - 18:48",
+         "durmuhurtha": "17:56 - 18:48",
          "events": ""
       },
       {
@@ -3455,7 +3456,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 23:30",
          "rahukala": "08:26 - 10:02",
          "yamaganda": "11:38 - 13:14",
-         "durmuhurta": "13:40 - 14:31, 16:13 - 17:04",
+         "durmuhurtha": "13:40 - 14:31, 16:13 - 17:04",
          "events": "Labor Day"
       },
       {
@@ -3469,7 +3470,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 23:50",
          "rahukala": "16:25 - 18:01",
          "yamaganda": "10:02 - 11:38",
-         "durmuhurta": "09:24 - 10:15, Sep/6 00:07 - 00:52",
+         "durmuhurtha": "09:24 - 10:15, Sep/6 00:07 - 00:52",
          "events": ""
       },
       {
@@ -3483,7 +3484,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till Sep-7 00:55",
          "rahukala": "13:13 - 14:49",
          "yamaganda": "08:27 - 10:03",
-         "durmuhurta": "12:48 - 13:39",
+         "durmuhurtha": "12:48 - 13:39",
          "events": "Sri Jayanti, Krishna Janmasthami"
       },
       {
@@ -3497,7 +3498,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till Sep-8 02:39",
          "rahukala": "14:48 - 16:23",
          "yamaganda": "06:53 - 08:28",
-         "durmuhurta": "11:06 - 11:57, 16:11 - 17:01",
+         "durmuhurtha": "11:06 - 11:57, 16:11 - 17:01",
          "events": ""
       },
       {
@@ -3511,7 +3512,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till Sep-9 04:56",
          "rahukala": "11:38 - 13:13",
          "yamaganda": "16:22 - 17:57",
-         "durmuhurta": "09:25 - 10:16, 13:38 - 14:29",
+         "durmuhurtha": "09:25 - 10:16, 13:38 - 14:29",
          "events": ""
       },
       {
@@ -3525,7 +3526,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till Allday",
          "rahukala": "10:03 - 11:38",
          "yamaganda": "14:47 - 16:21",
-         "durmuhurta": "06:54 - 08:35",
+         "durmuhurtha": "06:54 - 08:35",
          "events": ""
       },
       {
@@ -3539,7 +3540,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 07:36",
          "rahukala": "17:55 - 19:29",
          "yamaganda": "13:12 - 14:46",
-         "durmuhurta": "17:48 - 18:39",
+         "durmuhurtha": "17:48 - 18:39",
          "events": "Ekadasi"
       },
       {
@@ -3553,7 +3554,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 10:31",
          "rahukala": "08:30 - 10:04",
          "yamaganda": "11:38 - 13:12",
-         "durmuhurta": "13:37 - 14:27, 16:07 - 16:57",
+         "durmuhurtha": "13:37 - 14:27, 16:07 - 16:57",
          "events": "Pradosham"
       },
       {
@@ -3567,7 +3568,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 13:31",
          "rahukala": "16:19 - 17:52",
          "yamaganda": "10:04 - 11:38",
-         "durmuhurta": "09:26 - 10:16, Sep/13 00:03 - 00:49",
+         "durmuhurtha": "09:26 - 10:16, Sep/13 00:03 - 00:49",
          "events": "Masa Shivaratri"
       },
       {
@@ -3581,7 +3582,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 16:31",
          "rahukala": "13:11 - 14:44",
          "yamaganda": "08:31 - 10:04",
-         "durmuhurta": "12:46 - 13:36",
+         "durmuhurtha": "12:46 - 13:36",
          "events": ""
       },
       {
@@ -3595,7 +3596,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 19:24",
          "rahukala": "14:44 - 16:17",
          "yamaganda": "06:58 - 08:31",
-         "durmuhurta": "11:06 - 11:56, 16:04 - 16:54",
+         "durmuhurtha": "11:06 - 11:56, 16:04 - 16:54",
          "events": "Amavasya Tarpanam"
       },
       {
@@ -3609,7 +3610,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 22:06",
          "rahukala": "11:37 - 13:10",
          "yamaganda": "16:16 - 17:49",
-         "durmuhurta": "09:27 - 10:17, 13:35 - 14:25",
+         "durmuhurtha": "09:27 - 10:17, 13:35 - 14:25",
          "events": ""
       },
       {
@@ -3623,7 +3624,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till Sep-17 00:32",
          "rahukala": "10:05 - 11:37",
          "yamaganda": "14:42 - 16:15",
-         "durmuhurta": "06:59 - 08:38",
+         "durmuhurtha": "06:59 - 08:38",
          "events": ""
       },
       {
@@ -3637,7 +3638,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till Sep-18 02:37",
          "rahukala": "17:46 - 19:19",
          "yamaganda": "13:09 - 14:42",
-         "durmuhurta": "17:40 - 18:30",
+         "durmuhurtha": "17:40 - 18:30",
          "events": "Purattasi-1"
       },
       {
@@ -3651,7 +3652,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till Sep-19 04:18",
          "rahukala": "08:33 - 10:05",
          "yamaganda": "11:37 - 13:09",
-         "durmuhurta": "13:34 - 14:23, 16:01 - 16:50",
+         "durmuhurtha": "13:34 - 14:23, 16:01 - 16:50",
          "events": "Ganesh Chaturthi"
       },
       {
@@ -3665,7 +3666,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till Sep-20 05:28",
          "rahukala": "16:12 - 17:44",
          "yamaganda": "10:05 - 11:37",
-         "durmuhurta": "09:29 - 10:18,23:58 - Sep/20 00:46",
+         "durmuhurtha": "09:29 - 10:18,23:58 - Sep/20 00:46",
          "events": ""
       },
       {
@@ -3679,7 +3680,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till Sep-21 06:05",
          "rahukala": "13:08 - 14:40",
          "yamaganda": "08:34 - 10:05",
-         "durmuhurta": "12:44 - 13:33",
+         "durmuhurtha": "12:44 - 13:33",
          "events": "Shukla Shashti"
       },
       {
@@ -3693,7 +3694,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till Sep-22 06:04",
          "rahukala": "14:39 - 16:10",
          "yamaganda": "07:03 - 08:34",
-         "durmuhurta": "11:06 - 11:55, 15:58 - 16:47",
+         "durmuhurtha": "11:06 - 11:55, 15:58 - 16:47",
          "events": ""
       },
       {
@@ -3707,7 +3708,7 @@ var jsonresponse = {
          "nakshatra": "Moola till Sep-23 05:26",
          "rahukala": "11:37 - 13:08",
          "yamaganda": "16:10 - 17:40",
-         "durmuhurta": "09:30 - 10:18, 13:32 - 14:20",
+         "durmuhurtha": "09:30 - 10:18, 13:32 - 14:20",
          "events": "Masa Durga Asthami"
       },
       {
@@ -3721,7 +3722,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till Sep-24 04:11",
          "rahukala": "10:06 - 11:37",
          "yamaganda": "14:38 - 16:09",
-         "durmuhurta": "07:05 - 08:42",
+         "durmuhurtha": "07:05 - 08:42",
          "events": ""
       },
       {
@@ -3735,7 +3736,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till Sep-25 02:25",
          "rahukala": "17:38 - 19:08",
          "yamaganda": "13:07 - 14:37",
-         "durmuhurta": "17:32 - 18:20",
+         "durmuhurtha": "17:32 - 18:20",
          "events": ""
       },
       {
@@ -3749,7 +3750,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till Sep-26 00:11",
          "rahukala": "08:36 - 10:07",
          "yamaganda": "11:37 - 13:07",
-         "durmuhurta": "13:31 - 14:19, 15:55 - 16:43",
+         "durmuhurtha": "13:31 - 14:19, 15:55 - 16:43",
          "events": "Ekadasi, Vamana Jayanti, Sri Venkateswara Jayanthi"
       },
       {
@@ -3763,7 +3764,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 21:40",
          "rahukala": "16:06 - 17:36",
          "yamaganda": "10:07 - 11:37",
-         "durmuhurta": "09:31 - 10:19,23:54 - Sep/27 00:43",
+         "durmuhurtha": "09:31 - 10:19,23:54 - Sep/27 00:43",
          "events": "Pradosham"
       },
       {
@@ -3777,7 +3778,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 18:59",
          "rahukala": "13:06 - 14:35",
          "yamaganda": "08:37 - 10:07",
-         "durmuhurta": "12:42 - 13:30",
+         "durmuhurtha": "12:42 - 13:30",
          "events": ""
       },
       {
@@ -3791,7 +3792,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 16:18",
          "rahukala": "14:35 - 16:04",
          "yamaganda": "07:09 - 08:38",
-         "durmuhurta": "11:07 - 11:54, 15:52 - 16:40",
+         "durmuhurtha": "11:07 - 11:54, 15:52 - 16:40",
          "events": "Poornima Shraddha, Satyanarayana Vratam, Anant Chaturdasi"
       },
       {
@@ -3805,7 +3806,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 13:48",
          "rahukala": "11:36 - 13:05",
          "yamaganda": "16:03 - 17:32",
-         "durmuhurta": "09:32 - 10:19, 13:29 - 14:16",
+         "durmuhurtha": "09:32 - 10:19, 13:29 - 14:16",
          "events": "Mahalaya Paksha Begins"
       },
       {
@@ -3819,7 +3820,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 11:38",
          "rahukala": "10:08 - 11:36",
          "yamaganda": "14:34 - 16:02",
-         "durmuhurta": "07:10 - 08:45",
+         "durmuhurtha": "07:10 - 08:45",
          "events": ""
       },
       {
@@ -3833,7 +3834,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 09:57",
          "rahukala": "17:30 - 18:58",
          "yamaganda": "13:05 - 14:33",
-         "durmuhurta": "17:24 - 18:11",
+         "durmuhurtha": "17:24 - 18:11",
          "events": ""
       },
       {
@@ -3847,7 +3848,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 08:54",
          "rahukala": "08:40 - 10:08",
          "yamaganda": "11:36 - 13:04",
-         "durmuhurta": "13:28 - 14:15, 15:49 - 16:36",
+         "durmuhurtha": "13:28 - 14:15, 15:49 - 16:36",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -3861,7 +3862,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 08:33",
          "rahukala": "16:00 - 17:28",
          "yamaganda": "10:08 - 11:36",
-         "durmuhurta": "09:33 - 10:20,23:51 - Oct/4 00:40",
+         "durmuhurtha": "09:33 - 10:20,23:51 - Oct/4 00:40",
          "events": ""
       },
       {
@@ -3875,7 +3876,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 08:59",
          "rahukala": "13:04 - 14:31",
          "yamaganda": "08:41 - 10:09",
-         "durmuhurta": "12:40 - 13:27",
+         "durmuhurtha": "12:40 - 13:27",
          "events": ""
       },
       {
@@ -3889,7 +3890,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 10:09",
          "rahukala": "14:31 - 15:58",
          "yamaganda": "07:14 - 08:42",
-         "durmuhurta": "11:07 - 11:54, 15:46 - 16:33",
+         "durmuhurtha": "11:07 - 11:54, 15:46 - 16:33",
          "events": ""
       },
       {
@@ -3903,7 +3904,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 12:01",
          "rahukala": "11:36 - 13:03",
          "yamaganda": "15:57 - 17:24",
-         "durmuhurta": "09:34 - 10:21, 13:26 - 14:13",
+         "durmuhurtha": "09:34 - 10:21, 13:26 - 14:13",
          "events": ""
       },
       {
@@ -3917,7 +3918,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 14:26",
          "rahukala": "10:09 - 11:36",
          "yamaganda": "14:30 - 15:56",
-         "durmuhurta": "07:16 - 08:48",
+         "durmuhurtha": "07:16 - 08:48",
          "events": ""
       },
       {
@@ -3931,7 +3932,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 17:15",
          "rahukala": "17:22 - 18:48",
          "yamaganda": "13:03 - 14:29",
-         "durmuhurta": "17:16 - 18:02",
+         "durmuhurtha": "17:16 - 18:02",
          "events": ""
       },
       {
@@ -3945,7 +3946,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 20:14",
          "rahukala": "08:44 - 10:10",
          "yamaganda": "11:36 - 13:02",
-         "durmuhurta": "13:25 - 14:11, 15:43 - 16:29",
+         "durmuhurtha": "13:25 - 14:11, 15:43 - 16:29",
          "events": "Ekadasi"
       },
       {
@@ -3959,7 +3960,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 23:15",
          "rahukala": "15:54 - 17:20",
          "yamaganda": "10:10 - 11:36",
-         "durmuhurta": "09:36 - 10:22,23:47 - Oct/11 00:37",
+         "durmuhurtha": "09:36 - 10:22,23:47 - Oct/11 00:37",
          "events": "Vaishnava Ekadasi"
       },
       {
@@ -3973,7 +3974,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Oct-12 02:06",
          "rahukala": "13:02 - 14:27",
          "yamaganda": "08:45 - 10:11",
-         "durmuhurta": "12:39 - 13:25",
+         "durmuhurtha": "12:39 - 13:25",
          "events": "Pradosham"
       },
       {
@@ -3987,7 +3988,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till Oct-13 04:40",
          "rahukala": "14:27 - 15:52",
          "yamaganda": "07:20 - 08:45",
-         "durmuhurta": "11:08 - 11:53, 15:41 - 16:26",
+         "durmuhurtha": "11:08 - 11:53, 15:41 - 16:26",
          "events": "Masa Shivaratri"
       },
       {
@@ -4001,7 +4002,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till Oct-14 06:54",
          "rahukala": "11:36 - 13:01",
          "yamaganda": "15:51 - 17:16",
-         "durmuhurta": "09:37 - 10:22, 13:24 - 14:09",
+         "durmuhurtha": "09:37 - 10:22, 13:24 - 14:09",
          "events": "Amavasya Shraddha, Mahalaya Paksha Ends"
       },
       {
@@ -4015,7 +4016,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till Allday",
          "rahukala": "10:11 - 11:36",
          "yamaganda": "14:26 - 15:51",
-         "durmuhurta": "07:22 - 08:52",
+         "durmuhurtha": "07:22 - 08:52",
          "events": "Solar Eclipse 11:55 AM - 2:45 PM"
       },
       {
@@ -4029,7 +4030,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 08:42",
          "rahukala": "17:14 - 18:39",
          "yamaganda": "13:01 - 14:25",
-         "durmuhurta": "17:09 - 17:54",
+         "durmuhurtha": "17:09 - 17:54",
          "events": "Sharad Navaratri Begins"
       },
       {
@@ -4043,7 +4044,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 10:05",
          "rahukala": "08:48 - 10:12",
          "yamaganda": "11:36 - 13:01",
-         "durmuhurta": "13:23 - 14:08, 15:38 - 16:23",
+         "durmuhurtha": "13:23 - 14:08, 15:38 - 16:23",
          "events": ""
       },
       {
@@ -4057,7 +4058,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 11:01",
          "rahukala": "15:48 - 17:12",
          "yamaganda": "10:12 - 11:36",
-         "durmuhurta": "09:39 - 10:24,23:44 - Oct/18 00:35",
+         "durmuhurtha": "09:39 - 10:24,23:44 - Oct/18 00:35",
          "events": "Sun: Tula 16:03, Aippasi-1"
       },
       {
@@ -4071,7 +4072,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 11:30",
          "rahukala": "13:00 - 14:24",
          "yamaganda": "08:49 - 10:13",
-         "durmuhurta": "12:38 - 13:22",
+         "durmuhurtha": "12:38 - 13:22",
          "events": "Shukla Chaturthi"
       },
       {
@@ -4085,7 +4086,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 11:33",
          "rahukala": "14:23 - 15:47",
          "yamaganda": "07:26 - 08:50",
-         "durmuhurta": "11:09 - 11:53, 15:36 - 16:20",
+         "durmuhurtha": "11:09 - 11:53, 15:36 - 16:20",
          "events": "Shukla Shashti"
       },
       {
@@ -4099,7 +4100,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 11:11",
          "rahukala": "11:37 - 13:00",
          "yamaganda": "15:46 - 17:09",
-         "durmuhurta": "09:40 - 10:25, 13:22 - 14:06",
+         "durmuhurtha": "09:40 - 10:25, 13:22 - 14:06",
          "events": "Sarasvati Puja, Manavalamamuni"
       },
       {
@@ -4113,7 +4114,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 10:24",
          "rahukala": "10:14 - 11:37",
          "yamaganda": "14:23 - 15:45",
-         "durmuhurta": "07:28 - 08:56",
+         "durmuhurtha": "07:28 - 08:56",
          "events": "Vishwaksena Jayanthi"
       },
       {
@@ -4127,7 +4128,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 09:14",
          "rahukala": "17:07 - 18:30",
          "yamaganda": "12:59 - 14:22",
-         "durmuhurta": "17:02 - 17:46",
+         "durmuhurtha": "17:02 - 17:46",
          "events": "Durga Asthami"
       },
       {
@@ -4141,7 +4142,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 07:44 ; Dhanishta till Oct-24 05:58",
          "rahukala": "08:52 - 10:15",
          "yamaganda": "11:37 - 12:59",
-         "durmuhurta": "13:21 - 14:05, 15:33 - 16:17",
+         "durmuhurtha": "13:21 - 14:05, 15:33 - 16:17",
          "events": "Dussera, TN: Poigai, TN: Bhootath"
       },
       {
@@ -4155,7 +4156,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till Oct-25 04:00",
          "rahukala": "15:43 - 17:05",
          "yamaganda": "10:15 - 11:37",
-         "durmuhurta": "09:42 - 10:26,23:41 - Oct/25 00:34",
+         "durmuhurtha": "09:42 - 10:26,23:41 - Oct/25 00:34",
          "events": "Ekadasi, TN: Pey"
       },
       {
@@ -4169,7 +4170,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till Oct-26 01:56",
          "rahukala": "12:59 - 14:21",
          "yamaganda": "08:54 - 10:15",
-         "durmuhurta": "12:37 - 13:21",
+         "durmuhurtha": "12:37 - 13:21",
          "events": ""
       },
       {
@@ -4183,7 +4184,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 23:54",
          "rahukala": "14:21 - 15:42",
          "yamaganda": "07:33 - 08:54",
-         "durmuhurta": "11:10 - 11:54, 15:31 - 16:15",
+         "durmuhurtha": "11:10 - 11:54, 15:31 - 16:15",
          "events": "Pradosham"
       },
       {
@@ -4197,7 +4198,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 22:01",
          "rahukala": "11:38 - 12:59",
          "yamaganda": "15:42 - 17:03",
-         "durmuhurta": "09:44 - 10:27, 13:21 - 14:04",
+         "durmuhurtha": "09:44 - 10:27, 13:21 - 14:04",
          "events": "Satynarayana Vratam, Sharad Poornima"
       },
       {
@@ -4211,7 +4212,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 20:24",
          "rahukala": "10:17 - 11:38",
          "yamaganda": "14:20 - 15:41",
-         "durmuhurta": "07:35 - 09:01",
+         "durmuhurtha": "07:35 - 09:01",
          "events": "Valmaki Jayanti, Siva Annabhishek"
       },
       {
@@ -4225,7 +4226,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 19:11",
          "rahukala": "17:01 - 18:22",
          "yamaganda": "12:59 - 14:20",
-         "durmuhurta": "16:56 - 17:39",
+         "durmuhurtha": "16:56 - 17:39",
          "events": ""
       },
       {
@@ -4239,7 +4240,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 18:31",
          "rahukala": "08:57 - 10:18",
          "yamaganda": "11:38 - 12:59",
-         "durmuhurta": "13:20 - 14:03, 15:29 - 16:12",
+         "durmuhurtha": "13:20 - 14:03, 15:29 - 16:12",
          "events": ""
       },
       {
@@ -4253,7 +4254,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 18:28",
          "rahukala": "15:39 - 17:00",
          "yamaganda": "10:18 - 11:38",
-         "durmuhurta": "09:46 - 10:29,23:39 - Nov/1 00:32",
+         "durmuhurtha": "09:46 - 10:29,23:39 - Nov/1 00:32",
          "events": "Sankatahara Chaturthi, Karwa Chowth"
       },
       {
@@ -4267,7 +4268,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 19:06",
          "rahukala": "12:59 - 14:19",
          "yamaganda": "08:58 - 10:18",
-         "durmuhurta": "12:37 - 13:20",
+         "durmuhurtha": "12:37 - 13:20",
          "events": ""
       },
       {
@@ -4281,7 +4282,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 20:27",
          "rahukala": "14:18 - 15:38",
          "yamaganda": "07:39 - 08:59",
-         "durmuhurta": "11:12 - 11:55, 15:28 - 16:10",
+         "durmuhurtha": "11:12 - 11:55, 15:28 - 16:10",
          "events": ""
       },
       {
@@ -4295,7 +4296,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 22:27",
          "rahukala": "11:39 - 12:59",
          "yamaganda": "15:38 - 16:57",
-         "durmuhurta": "09:48 - 10:30, 13:20 - 14:02",
+         "durmuhurtha": "09:48 - 10:30, 13:20 - 14:02",
          "events": ""
       },
       {
@@ -4309,7 +4310,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Nov-5 00:59",
          "rahukala": "10:20 - 11:39",
          "yamaganda": "14:18 - 15:37",
-         "durmuhurta": "07:41 - 09:06",
+         "durmuhurtha": "07:41 - 09:06",
          "events": ""
       },
       {
@@ -4323,7 +4324,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till Nov-6 02:52",
          "rahukala": "15:56 - 17:15",
          "yamaganda": "11:59 - 13:18",
-         "durmuhurta": "15:51 - 16:33",
+         "durmuhurtha": "15:51 - 16:33",
          "events": "Daylight Savings Ends"
       },
       {
@@ -4337,7 +4338,7 @@ var jsonresponse = {
          "nakshatra": "Magha till Nov-7 05:53",
          "rahukala": "08:02 - 09:21",
          "yamaganda": "10:40 - 11:59",
-         "durmuhurta": "12:20 - 13:02, 14:26 - 15:08",
+         "durmuhurtha": "12:20 - 13:02, 14:26 - 15:08",
          "events": ""
       },
       {
@@ -4351,7 +4352,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till Allday",
          "rahukala": "14:36 - 15:54",
          "yamaganda": "09:21 - 10:40",
-         "durmuhurta": "08:50 - 09:32,22:38 - 23:32",
+         "durmuhurtha": "08:50 - 09:32,22:38 - 23:32",
          "events": ""
       },
       {
@@ -4365,7 +4366,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 08:49",
          "rahukala": "11:59 - 13:17",
          "yamaganda": "08:04 - 09:22",
-         "durmuhurta": "11:38 - 12:20",
+         "durmuhurtha": "11:38 - 12:20",
          "events": "Ekadasi"
       },
       {
@@ -4379,7 +4380,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 11:27",
          "rahukala": "13:17 - 14:35",
          "yamaganda": "06:46 - 08:04",
-         "durmuhurta": "10:15 - 10:56, 14:25 - 15:06",
+         "durmuhurtha": "10:15 - 10:56, 14:25 - 15:06",
          "events": ""
       },
       {
@@ -4393,7 +4394,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 13:38",
          "rahukala": "10:41 - 11:59",
          "yamaganda": "14:35 - 15:53",
-         "durmuhurta": "08:52 - 09:33, 12:20 - 13:01",
+         "durmuhurtha": "08:52 - 09:33, 12:20 - 13:01",
          "events": "Pradosham, Dhanteras, Dhanvantari Jayanti"
       },
       {
@@ -4407,7 +4408,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till 15:16",
          "rahukala": "09:24 - 10:41",
          "yamaganda": "13:17 - 14:34",
-         "durmuhurta": "06:48 - 08:11",
+         "durmuhurtha": "06:48 - 08:11",
          "events": "Masa Shivaratri, Naraka Chaturdasi, Deepawali (Saurmana)"
       },
       {
@@ -4421,7 +4422,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till 16:21",
          "rahukala": "15:52 - 17:09",
          "yamaganda": "11:59 - 13:17",
-         "durmuhurta": "15:46 - 16:28",
+         "durmuhurtha": "15:46 - 16:28",
          "events": "Amavasya Tarpanam, Diwali"
       },
       {
@@ -4435,7 +4436,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till 16:52",
          "rahukala": "08:08 - 09:25",
          "yamaganda": "10:42 - 11:59",
-         "durmuhurta": "12:20 - 13:01, 14:23 - 15:05",
+         "durmuhurtha": "12:20 - 13:01, 14:23 - 15:05",
          "events": "Annakot"
       },
       {
@@ -4449,7 +4450,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till 16:54",
          "rahukala": "14:34 - 15:51",
          "yamaganda": "09:25 - 10:42",
-         "durmuhurta": "08:55 - 09:36,22:37 - 23:32",
+         "durmuhurtha": "08:55 - 09:36,22:37 - 23:32",
          "events": ""
       },
       {
@@ -4463,7 +4464,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till 16:30",
          "rahukala": "12:00 - 13:16",
          "yamaganda": "08:09 - 09:26",
-         "durmuhurta": "11:39 - 12:20",
+         "durmuhurtha": "11:39 - 12:20",
          "events": ""
       },
       {
@@ -4477,7 +4478,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 15:46",
          "rahukala": "13:16 - 14:33",
          "yamaganda": "06:53 - 08:10",
-         "durmuhurta": "10:18 - 10:58, 14:23 - 15:04",
+         "durmuhurtha": "10:18 - 10:58, 14:23 - 15:04",
          "events": "Sun: Vrishchika 14:51, Krittikai-1, Ayyappa Mandala Puja Begin"
       },
       {
@@ -4491,7 +4492,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 14:47",
          "rahukala": "10:44 - 12:00",
          "yamaganda": "14:33 - 15:49",
-         "durmuhurta": "08:57 - 09:37, 12:20 - 13:01",
+         "durmuhurtha": "08:57 - 09:37, 12:20 - 13:01",
          "events": ""
       },
       {
@@ -4505,7 +4506,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 13:36",
          "rahukala": "09:28 - 10:44",
          "yamaganda": "13:16 - 14:33",
-         "durmuhurta": "06:55 - 08:17",
+         "durmuhurtha": "06:55 - 08:17",
          "events": "Skanda Shashti, Chhath"
       },
       {
@@ -4519,7 +4520,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 12:18",
          "rahukala": "15:48 - 17:05",
          "yamaganda": "12:00 - 13:16",
-         "durmuhurta": "15:43 - 16:24",
+         "durmuhurtha": "15:43 - 16:24",
          "events": ""
       },
       {
@@ -4533,7 +4534,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 10:56",
          "rahukala": "08:13 - 09:29",
          "yamaganda": "10:45 - 12:01",
-         "durmuhurta": "12:21 - 13:01, 14:22 - 15:03",
+         "durmuhurtha": "12:21 - 13:01, 14:22 - 15:03",
          "events": ""
       },
       {
@@ -4547,7 +4548,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 09:31",
          "rahukala": "14:32 - 15:48",
          "yamaganda": "09:30 - 10:45",
-         "durmuhurta": "08:59 - 09:40,22:38 - 23:33",
+         "durmuhurtha": "08:59 - 09:40,22:38 - 23:33",
          "events": ""
       },
       {
@@ -4561,7 +4562,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 08:07 ;  U.Bhadra till Nov-23 06:46",
          "rahukala": "12:01 - 13:17",
          "yamaganda": "08:15 - 09:30",
-         "durmuhurta": "11:41 - 12:21",
+         "durmuhurtha": "11:41 - 12:21",
          "events": ""
       },
       {
@@ -4575,7 +4576,7 @@ var jsonresponse = {
          "nakshatra": "Revati till Nov-24 05:31",
          "rahukala": "13:17 - 14:32",
          "yamaganda": "07:00 - 08:15",
-         "durmuhurta": "10:21 - 11:01, 14:22 - 15:02",
+         "durmuhurtha": "10:21 - 11:01, 14:22 - 15:02",
          "events": "Ekadasi, Thanksgiving Day"
       },
       {
@@ -4589,7 +4590,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till Nov-25 04:25",
          "rahukala": "10:47 - 12:02",
          "yamaganda": "14:32 - 15:47",
-         "durmuhurta": "09:01 - 09:41, 12:22 - 13:02",
+         "durmuhurtha": "09:01 - 09:41, 12:22 - 13:02",
          "events": "Pradosham, Tulsi Kalyanam"
       },
       {
@@ -4603,7 +4604,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till Nov-26 03:35",
          "rahukala": "09:32 - 10:47",
          "yamaganda": "13:17 - 14:32",
-         "durmuhurta": "07:02 - 08:22",
+         "durmuhurtha": "07:02 - 08:22",
          "events": ""
       },
       {
@@ -4617,7 +4618,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till Nov-27 03:05",
          "rahukala": "15:47 - 17:01",
          "yamaganda": "12:02 - 13:17",
-         "durmuhurta": "15:42 - 16:22",
+         "durmuhurtha": "15:42 - 16:22",
          "events": "Satyanarayana Vratam, Kartikai Deepam, TN: Thirumangai"
       },
       {
@@ -4631,7 +4632,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till Nov-28 03:01",
          "rahukala": "08:19 - 09:33",
          "yamaganda": "10:48 - 12:03",
-         "durmuhurta": "12:23 - 13:02, 14:22 - 15:02",
+         "durmuhurtha": "12:23 - 13:02, 14:22 - 15:02",
          "events": "TN: Thiruppan"
       },
       {
@@ -4645,7 +4646,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till Nov-29 03:28",
          "rahukala": "14:32 - 15:46",
          "yamaganda": "09:34 - 10:48",
-         "durmuhurta": "09:04 - 09:44,22:39 - 23:35",
+         "durmuhurtha": "09:04 - 09:44,22:39 - 23:35",
          "events": ""
       },
       {
@@ -4659,7 +4660,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till Nov-30 04:31",
          "rahukala": "12:03 - 13:18",
          "yamaganda": "08:20 - 09:35",
-         "durmuhurta": "11:43 - 12:23",
+         "durmuhurtha": "11:43 - 12:23",
          "events": ""
       },
       {
@@ -4673,7 +4674,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till Dec-1 06:10",
          "rahukala": "13:18 - 14:32",
          "yamaganda": "07:07 - 08:21",
-         "durmuhurta": "10:25 - 11:04, 14:22 - 15:02",
+         "durmuhurtha": "10:25 - 11:04, 14:22 - 15:02",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -4687,7 +4688,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till Allday",
          "rahukala": "10:50 - 12:04",
          "yamaganda": "14:32 - 15:46",
-         "durmuhurta": "09:06 - 09:46, 12:24 - 13:03",
+         "durmuhurtha": "09:06 - 09:46, 12:24 - 13:03",
          "events": ""
       },
       {
@@ -4701,7 +4702,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 08:24",
          "rahukala": "09:37 - 10:50",
          "yamaganda": "13:18 - 14:32",
-         "durmuhurta": "07:09 - 08:28",
+         "durmuhurtha": "07:09 - 08:28",
          "events": ""
       },
       {
@@ -4715,7 +4716,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 11:06",
          "rahukala": "15:46 - 17:00",
          "yamaganda": "12:05 - 13:19",
-         "durmuhurta": "15:41 - 16:21",
+         "durmuhurtha": "15:41 - 16:21",
          "events": ""
       },
       {
@@ -4729,7 +4730,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 14:05",
          "rahukala": "08:24 - 09:38",
          "yamaganda": "10:51 - 12:05",
-         "durmuhurta": "12:25 - 13:04, 14:23 - 15:02",
+         "durmuhurtha": "12:25 - 13:04, 14:23 - 15:02",
          "events": ""
       },
       {
@@ -4743,7 +4744,7 @@ var jsonresponse = {
          "nakshatra": "P.Phalguni till 17:07",
          "rahukala": "14:33 - 15:46",
          "yamaganda": "09:38 - 10:52",
-         "durmuhurta": "09:09 - 09:48,22:41 - 23:38",
+         "durmuhurtha": "09:09 - 09:48,22:41 - 23:38",
          "events": ""
       },
       {
@@ -4757,7 +4758,7 @@ var jsonresponse = {
          "nakshatra": "U.Phalguni till 19:58",
          "rahukala": "12:06 - 13:19",
          "yamaganda": "08:26 - 09:39",
-         "durmuhurta": "11:46 - 12:26",
+         "durmuhurtha": "11:46 - 12:26",
          "events": ""
       },
       {
@@ -4771,7 +4772,7 @@ var jsonresponse = {
          "nakshatra": "Hasta till 22:24",
          "rahukala": "13:20 - 14:33",
          "yamaganda": "07:13 - 08:26",
-         "durmuhurta": "10:29 - 11:08, 14:23 - 15:03",
+         "durmuhurtha": "10:29 - 11:08, 14:23 - 15:03",
          "events": ""
       },
       {
@@ -4785,7 +4786,7 @@ var jsonresponse = {
          "nakshatra": "Chitra till Dec-9 00:13",
          "rahukala": "10:54 - 12:07",
          "yamaganda": "14:33 - 15:47",
-         "durmuhurta": "09:11 - 09:50, 12:26 - 13:06",
+         "durmuhurtha": "09:11 - 09:50, 12:26 - 13:06",
          "events": "Ekadasi"
       },
       {
@@ -4799,7 +4800,7 @@ var jsonresponse = {
          "nakshatra": "Swaati till Dec-10 01:20",
          "rahukala": "09:41 - 10:54",
          "yamaganda": "13:21 - 14:34",
-         "durmuhurta": "07:15 - 08:33",
+         "durmuhurtha": "07:15 - 08:33",
          "events": ""
       },
       {
@@ -4813,7 +4814,7 @@ var jsonresponse = {
          "nakshatra": "Visakha till Dec-11 01:43",
          "rahukala": "15:47 - 17:00",
          "yamaganda": "12:08 - 13:21",
-         "durmuhurta": "15:42 - 16:21",
+         "durmuhurtha": "15:42 - 16:21",
          "events": "Pradosham, Masa Shivaratri"
       },
       {
@@ -4827,7 +4828,7 @@ var jsonresponse = {
          "nakshatra": "Anuraadha till Dec-12 01:26",
          "rahukala": "08:29 - 09:42",
          "yamaganda": "10:55 - 12:08",
-         "durmuhurta": "12:28 - 13:07, 14:25 - 15:04",
+         "durmuhurtha": "12:28 - 13:07, 14:25 - 15:04",
          "events": ""
       },
       {
@@ -4841,7 +4842,7 @@ var jsonresponse = {
          "nakshatra": "Jyeshtha till Dec-13 00:35",
          "rahukala": "14:35 - 15:48",
          "yamaganda": "09:43 - 10:56",
-         "durmuhurta": "09:14 - 09:52,22:43 - 23:40",
+         "durmuhurtha": "09:14 - 09:52,22:43 - 23:40",
          "events": "Amavasya Tarpanam"
       },
       {
@@ -4855,7 +4856,7 @@ var jsonresponse = {
          "nakshatra": "Moola till 23:17",
          "rahukala": "12:09 - 13:22",
          "yamaganda": "08:30 - 09:43",
-         "durmuhurta": "11:50 - 12:29",
+         "durmuhurtha": "11:50 - 12:29",
          "events": ""
       },
       {
@@ -4869,7 +4870,7 @@ var jsonresponse = {
          "nakshatra": "P.Ashadha till 21:40",
          "rahukala": "13:22 - 14:35",
          "yamaganda": "07:18 - 08:31",
-         "durmuhurta": "10:33 - 11:11, 14:26 - 15:04",
+         "durmuhurtha": "10:33 - 11:11, 14:26 - 15:04",
          "events": ""
       },
       {
@@ -4883,7 +4884,7 @@ var jsonresponse = {
          "nakshatra": "U.Ashada till 19:54",
          "rahukala": "10:57 - 12:10",
          "yamaganda": "14:36 - 15:49",
-         "durmuhurta": "09:15 - 09:54, 12:30 - 13:08",
+         "durmuhurtha": "09:15 - 09:54, 12:30 - 13:08",
          "events": "Shukla Chaturthi"
       },
       {
@@ -4897,7 +4898,7 @@ var jsonresponse = {
          "nakshatra": "Shravana till 18:07",
          "rahukala": "09:45 - 10:58",
          "yamaganda": "13:23 - 14:36",
-         "durmuhurta": "07:20 - 08:37",
+         "durmuhurtha": "07:20 - 08:37",
          "events": "Dhanurmasa Begin, Margazhi-1"
       },
       {
@@ -4911,7 +4912,7 @@ var jsonresponse = {
          "nakshatra": "Dhanishta till 16:24",
          "rahukala": "15:49 - 17:02",
          "yamaganda": "12:11 - 13:24",
-         "durmuhurta": "15:44 - 16:23",
+         "durmuhurtha": "15:44 - 16:23",
          "events": "Shukla Shashti"
       },
       {
@@ -4925,7 +4926,7 @@ var jsonresponse = {
          "nakshatra": "Satabhisha till 14:51",
          "rahukala": "08:33 - 09:46",
          "yamaganda": "10:59 - 12:12",
-         "durmuhurta": "12:31 - 13:10, 14:27 - 15:06",
+         "durmuhurtha": "12:31 - 13:10, 14:27 - 15:06",
          "events": ""
       },
       {
@@ -4939,7 +4940,7 @@ var jsonresponse = {
          "nakshatra": "P.Bhadra till 13:32",
          "rahukala": "14:37 - 15:50",
          "yamaganda": "09:47 - 10:59",
-         "durmuhurta": "09:18 - 09:56,22:46 - 23:44",
+         "durmuhurtha": "09:18 - 09:56,22:46 - 23:44",
          "events": ""
       },
       {
@@ -4953,7 +4954,7 @@ var jsonresponse = {
          "nakshatra": "U.Bhadra till 12:27",
          "rahukala": "12:13 - 13:25",
          "yamaganda": "08:35 - 09:47",
-         "durmuhurta": "11:53 - 12:32",
+         "durmuhurtha": "11:53 - 12:32",
          "events": ""
       },
       {
@@ -4967,7 +4968,7 @@ var jsonresponse = {
          "nakshatra": "Revati till 11:39",
          "rahukala": "13:26 - 14:38",
          "yamaganda": "07:22 - 08:35",
-         "durmuhurta": "10:36 - 11:15, 14:29 - 15:07",
+         "durmuhurtha": "10:36 - 11:15, 14:29 - 15:07",
          "events": ""
       },
       {
@@ -4981,7 +4982,7 @@ var jsonresponse = {
          "nakshatra": "Aswini till 11:06",
          "rahukala": "11:01 - 12:14",
          "yamaganda": "14:39 - 15:52",
-         "durmuhurta": "09:19 - 09:58, 12:33 - 13:12",
+         "durmuhurtha": "09:19 - 09:58, 12:33 - 13:12",
          "events": "Geeta Jayanti, Vaikuntha Ekadasi"
       },
       {
@@ -4995,7 +4996,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till 10:49",
          "rahukala": "09:49 - 11:01",
          "yamaganda": "13:27 - 14:39",
-         "durmuhurta": "07:23 - 08:41",
+         "durmuhurtha": "07:23 - 08:41",
          "events": ""
       },
       {
@@ -5009,7 +5010,7 @@ var jsonresponse = {
          "nakshatra": "Krittika till 10:49",
          "rahukala": "15:53 - 17:05",
          "yamaganda": "12:15 - 13:27",
-         "durmuhurta": "15:48 - 16:27",
+         "durmuhurtha": "15:48 - 16:27",
          "events": "Pradosham"
       },
       {
@@ -5023,7 +5024,7 @@ var jsonresponse = {
          "nakshatra": "Rohini till 11:09",
          "rahukala": "08:37 - 09:50",
          "yamaganda": "11:02 - 12:15",
-         "durmuhurta": "12:34 - 13:13, 14:31 - 15:10",
+         "durmuhurtha": "12:34 - 13:13, 14:31 - 15:10",
          "events": "Christmas"
       },
       {
@@ -5037,7 +5038,7 @@ var jsonresponse = {
          "nakshatra": "Mrigasira till 11:51",
          "rahukala": "14:41 - 15:54",
          "yamaganda": "09:50 - 11:03",
-         "durmuhurta": "09:21 - 10:00,22:50 - 23:47",
+         "durmuhurtha": "09:21 - 10:00,22:50 - 23:47",
          "events": "Satyanarayana Vratam, Dattatreya Jayanti"
       },
       {
@@ -5051,7 +5052,7 @@ var jsonresponse = {
          "nakshatra": "Aardra till 12:58",
          "rahukala": "12:16 - 13:29",
          "yamaganda": "08:38 - 09:51",
-         "durmuhurta": "11:57 - 12:35",
+         "durmuhurtha": "11:57 - 12:35",
          "events": "Arudra Darshanam"
       },
       {
@@ -5065,7 +5066,7 @@ var jsonresponse = {
          "nakshatra": "Punarvasu till 14:34",
          "rahukala": "13:29 - 14:42",
          "yamaganda": "07:25 - 08:38",
-         "durmuhurta": "10:39 - 11:18, 14:32 - 15:11",
+         "durmuhurtha": "10:39 - 11:18, 14:32 - 15:11",
          "events": ""
       },
       {
@@ -5079,7 +5080,7 @@ var jsonresponse = {
          "nakshatra": "Pushya till 16:39",
          "rahukala": "11:04 - 12:17",
          "yamaganda": "14:43 - 15:56",
-         "durmuhurta": "09:22 - 10:01, 12:36 - 13:15",
+         "durmuhurtha": "09:22 - 10:01, 12:36 - 13:15",
          "events": ""
       },
       {
@@ -5093,7 +5094,7 @@ var jsonresponse = {
          "nakshatra": "Aslesha till 19:12",
          "rahukala": "09:52 - 11:05",
          "yamaganda": "13:30 - 14:43",
-         "durmuhurta": "07:26 - 08:44",
+         "durmuhurtha": "07:26 - 08:44",
          "events": "Sankatahara Chaturthi"
       },
       {
@@ -5107,7 +5108,7 @@ var jsonresponse = {
          "nakshatra": "Magha till 22:06",
          "rahukala": "15:57 - 17:10",
          "yamaganda": "12:18 - 13:31",
-         "durmuhurta": "15:52 - 16:31",
+         "durmuhurtha": "15:52 - 16:31",
          "events": ""
       }
    ]
