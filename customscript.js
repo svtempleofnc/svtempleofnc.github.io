@@ -12,7 +12,7 @@ var jsonresponse = {
          "nakshatra": "Bharani till Jan-2 03:53",
          "rahukala": "15:58 - 17:11",
          "yamaganda": "12:19 - 13:32",
-         "durmuhurta": "15:53 - 16:32",
+         "durmuhurtha": "15:53 - 16:32",
          "events": "New Year"
          },
          {
