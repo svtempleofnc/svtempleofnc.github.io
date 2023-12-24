@@ -321,7 +321,7 @@ var jsonresponse = {
          "rahukala": "09:49 - 11:01",
          "yamaganda": "13:27 - 14:39",
          "durmuhurtha": "07:23 - 08:41",
-         "events": ""
+         "events": "-"
       },
       {
          "date": "24/12/2023",
@@ -335,7 +335,7 @@ var jsonresponse = {
          "rahukala": "15:53 - 17:05",
          "yamaganda": "12:15 - 13:27",
          "durmuhurtha": "15:48 - 16:27",
-         "events": "Pradosham"
+         "events": "Pradosham."
       },
       {
          "date": "25/12/2023",
