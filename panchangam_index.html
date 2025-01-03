@@ -1,108 +1,120 @@
 
 <!-- saved from url=(0052)https://svtempleofnc.github.io/panchangam_index.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title> </title>
-	<style type="text/css">
-		body {
-			font-size: .9rem;
-			line-height: 1.25;
-			font-family: "Open Sans", Helvetica, Arial, sans-serif;
-			max-width: 340px;
-  			margin: auto;
-		}
-
-		h5 {
-			box-sizing: border-box;
-			margin: 0px 0px 0.5rem;
-			padding: 0px;
-			font-weight: bold;
-			line-height: 1.2;
-			font-size: 1.25rem;
-			text-align: left;
-			text-indent: 0px;
-			text-transform: none;
-			white-space: normal;
-		}
-
-		.webPanelSubtitle {
-			font-size: 17px;
-			font-weight: bold;
-		}
-
-		.table-bordered {
-			border-collapse: collapse;
-		}
-
-		.table-bordered td,
-		.table-bordered th {
-			border: 1px solid #dee2e6;
-			padding: .3rem;
-			font-size: .9em;
-			line-height: 1.25;
-		}
-
-		.table-bordered tr {
-			display: table-row;
-			vertical-align: inherit;
-			border-color: inherit;
-		}
-
-		.table-bordered th {
-			vertical-align: middle;
-			text-align: left;
-		}
-	</style>
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Panchangam</title>
+    <style>
+        body {
+            font-size: .9rem;
+            line-height: 1.25;
+            font-family: "Open Sans", Helvetica, Arial, sans-serif;
+            max-width: 340px;
+            margin: auto;
+        }
+        h5 {
+            margin: 0 0 0.5rem;
+            font-weight: bold;
+            font-size: 1.25rem;
+            line-height: 1.2;
+        }
+        .webPanelSubtitle {
+            font-size: 17px;
+            font-weight: bold;
+        }
+        .table-bordered {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 1rem;
+        }
+        .table-bordered td,
+        .table-bordered th {
+            border: 1px solid #dee2e6;
+            padding: .5rem;
+            font-size: .9em;
+        }
+        .table-bordered th {
+            width: 35%;
+            text-align: left;
+            background-color: #f8f9fa;
+        }
+    </style>
 </head>
-
 <body>
-	<div></div>
-     
-	<h5>Panchangam</h5>
-	<div><span id="todaysDateLabel" class="webPanelSubtitle">Today: Saturday December 17, 2022</span>
+    <h5>Panchangam</h5>
+    <div id="panchangamContent">
+        <span id="todaysDateLabel" class="webPanelSubtitle"></span>
+        <table class="table-bordered">
+            <tr>
+                <th>Thithi</th>
+                <td id="tithiLabel"></td>
+            </tr>
+            <tr>
+                <th>Nakshatram</th>
+                <td id="nakshatraLabel"></td>
+            </tr>
+            <tr>
+                <th>Sun Sign</th>
+                <td id="sunLabel"></td>
+            </tr>
+            <tr>
+                <th>Sun Rise & Set</th>
+                <td><span id="sunriseLabel"></span> - <span id="sun_setLabel"></span></td>
+            </tr>
+            <tr>
+                <th>Durmuhurtham</th>
+                <td id="durmuhurthaLabel"></td>
+            </tr>
+            <tr>
+                <th>Rahukaalam</th>
+                <td id="rahukalaLabel"></td>
+            </tr>
+            <tr>
+                <th>Yamagandam</th>
+                <td id="yamagandaLabel"></td>
+            </tr>
+            <tr>
+                <th>Events</th>
+                <td id="EventLabel"></td>
+            </tr>
+        </table>
+    </div>
 
-		<table class="table-bordered">
-			<tbody>
-				<tr>
-					<th>Thithi</th>
-					<td><span id="tithiLabel"> Navami till 17:11 </span>
-					</td>
-				</tr>
-				<tr>
-					<th>Nakshatram</th>
-					<td><span id="nakshatraLabel"> Hasta till 23:48 </span></td>
-				</tr>
-				<tr>
-					<th>Sun Sign</th>
-					<td><span id="sunLabel">Dhanus</span></td>
-				</tr>
-				<tr>
-					<th>Sun Rise &amp; Set</th>
-					<td><span id="sunriseLabel">7:20</span> - <span id="sun_setLabel">17:02</span></td>
-				</tr>
-				<tr>
-					<th>Durmuhurtham</th>
-					<td><span id="durmuhurthaLabel"> 07:20 - 08:38</span></td>
-				</tr>
-				<tr>
-					<th>Rahukaalam</th>
-					<td><span id="rahukalaLabel"> 09:46 - 10:58</span></td>
-				</tr>
-				<tr>
-					<th>Yamagandam</th>
-					<td><span id="yamagandaLabel"> 13:24 - 14:37</span></td>
-				</tr>
-				<tr>
-					<th>Events</th>
-					<td><span id="EventLabel"> </span></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+    <script>
+        const jsonData = ${JSON.stringify(jsonresponse)};
+        
+        function getTodaysDate() {
+            const today = new Date();
+            const dd = String(today.getDate()).padStart(2, '0');
+            const mm = String(today.getMonth() + 1).padStart(2, '0');
+            const yyyy = today.getFullYear();
+            return `${dd}/${mm}/${yyyy}`;
+        }
 
+        function setHtmlTableContent(panchangamData) {
+            const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+            const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+            const today = new Date();
+            
+            document.getElementById("todaysDateLabel").innerHTML = `Today: ${days[today.getDay()]} ${months[today.getMonth()]} ${today.getDate()}, ${today.getFullYear()}`;
+            document.getElementById("tithiLabel").innerHTML = panchangamData.tithi;
+            document.getElementById("nakshatraLabel").innerHTML = panchangamData.nakshatra;
+            document.getElementById("sunLabel").innerHTML = panchangamData.sun;
+            document.getElementById("sunriseLabel").innerHTML = panchangamData.sunrise;
+            document.getElementById("sun_setLabel").innerHTML = panchangamData.sun_set;
+            document.getElementById("durmuhurthaLabel").innerHTML = panchangamData.durmuhurtha;
+            document.getElementById("rahukalaLabel").innerHTML = panchangamData.rahukala;
+            document.getElementById("yamagandaLabel").innerHTML = panchangamData.yamaganda;
+            document.getElementById("EventLabel").innerHTML = panchangamData.events;
+        }
 
-	<script type="text/javascript" src="./customscript.js"></script>
-
-
-
-</body></html>
+        // Initialize
+        const todaysDate = getTodaysDate();
+        const todayData = jsonData.RECORDS.find(record => record.date === todaysDate);
+        if (todayData) {
+            setHtmlTableContent(todayData);
+        }
+    </script>
+</body>
+</html>
