@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,17 +8,37 @@
             font-size: .9rem;
             line-height: 1.25;
             font-family: "Open Sans", Helvetica, Arial, sans-serif;
-            max-width: 340px;
-            margin: auto;
+            margin: 0;
+            padding: 10px;
+            box-sizing: border-box;
+            width: 100%;
+        }
+        h5 {
+            margin: 0 0 0.5rem;
+            font-weight: bold;
+            font-size: 1.25rem;
+        }
+        .webPanelSubtitle {
+            font-size: 17px;
+            font-weight: bold;
+            display: block;
+            margin-bottom: 10px;
         }
         .table-bordered {
             border-collapse: collapse;
             width: 100%;
+            margin-top: 5px;
         }
         .table-bordered td,
         .table-bordered th {
             border: 1px solid #dee2e6;
-            padding: .5rem;
+            padding: 8px;
+            font-size: .9em;
+            line-height: 1.25;
+        }
+        .table-bordered th {
+            width: 35%;
+            text-align: left;
         }
     </style>
 </head>
@@ -32,9 +50,7 @@
             <tr><th>Thithi</th><td id="tithiLabel"></td></tr>
             <tr><th>Nakshatram</th><td id="nakshatraLabel"></td></tr>
             <tr><th>Sun Sign</th><td id="sunLabel"></td></tr>
-            <tr><th>Sun Rise & Set</th>
-                <td><span id="sunriseLabel"></span> - <span id="sun_setLabel"></span></td>
-            </tr>
+            <tr><th>Sun Rise & Set</th><td><span id="sunriseLabel"></span> - <span id="sun_setLabel"></span></td></tr>
             <tr><th>Durmuhurtham</th><td id="durmuhurthaLabel"></td></tr>
             <tr><th>Rahukaalam</th><td id="rahukalaLabel"></td></tr>
             <tr><th>Yamagandam</th><td id="yamagandaLabel"></td></tr>
@@ -43,7 +59,7 @@
     </div>
 
     <script>
-    var jsonresponse = {
+    const jsonresponse = {
         "RECORDS": [
           {
             "date": "01/01/2025",
@@ -5155,29 +5171,20 @@
             "durmuhurtha": "11:59 - 12:38",
             "events": "PRADOSHAM"
           }
-        ]
+          ]
     };
 
     function getTodaysDate() {
-        var today = new Date();
-        var dd = String(today.getDate()).padStart(2, '0');
-        var mm = String(today.getMonth() + 1).padStart(2, '0');  
-        var yyyy = today.getFullYear();
-        return dd + '/' + mm + '/' + yyyy;
+        const today = new Date();
+        return `${String(today.getDate()).padStart(2, '0')}/${String(today.getMonth() + 1).padStart(2, '0')}/${today.getFullYear()}`;
     }
 
     function setHtmlTableContent(panchangamData) {
-        var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-        var months = ['January','February','March','April','May','June','July',
-                     'August','September','October','November','December'];
-        var today = new Date();
+        const days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+        const months = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+        const today = new Date();
         
-        document.getElementById("todaysDateLabel").innerHTML = "Today: " + 
-            days[today.getDay()] + " " + 
-            months[today.getMonth()] + " " + 
-            today.getDate() + ", " + 
-            today.getFullYear();
-            
+        document.getElementById("todaysDateLabel").innerHTML = `Today: ${days[today.getDay()]} ${months[today.getMonth()]} ${today.getDate()}, ${today.getFullYear()}`;
         document.getElementById("tithiLabel").innerHTML = panchangamData.tithi;
         document.getElementById("nakshatraLabel").innerHTML = panchangamData.nakshatra;
         document.getElementById("sunLabel").innerHTML = panchangamData.sun;
@@ -5189,7 +5196,6 @@
         document.getElementById("EventLabel").innerHTML = panchangamData.events;
     }
 
-    // Initialize on page load
     const todayDate = getTodaysDate();
     const todayData = jsonresponse.RECORDS.find(record => record.date === todayDate);
     if (todayData) {
